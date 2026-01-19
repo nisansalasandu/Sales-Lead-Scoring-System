@@ -66,6 +66,7 @@ streamlit run dashboard/app.py
 - Budget indicators
 - Conversion status (target variable)
 
+
 ## 🎯 Model Performance
 - **Logistic Regression**: 82% accuracy
 - **Decision Tree**: 79% accuracy
