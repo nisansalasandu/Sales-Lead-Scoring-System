@@ -1,0 +1,21 @@
+lead_id,industry,composite_score,contact_level,action_recommendation
+LEAD_0182,Finance,86.09,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0570,Agriculture,86.09,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0139,Manufacturing,86.04,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0043,Finance,86.03,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0064,Agriculture,86.01,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0023,Retail,85.98,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0498,Finance,85.91,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0893,Healthcare,85.87,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0031,Education,85.85,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0175,Tourism,85.82,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0126,Healthcare,85.81,C-Level,HIGH VALUE: Schedule executive meeting
+LEAD_0640,Finance,85.81,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0919,Agriculture,85.81,C-Level,HIGH VALUE: Schedule executive meeting
+LEAD_0741,Education,85.71,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0321,Agriculture,85.67,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0921,IT/Software,85.67,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0643,Agriculture,85.65,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0975,Finance,85.65,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0418,Manufacturing,85.64,C-Level,URGENT: Follow up on demo request immediately
+LEAD_0393,Finance,85.64,C-Level,HIGH VALUE: Schedule executive meeting
