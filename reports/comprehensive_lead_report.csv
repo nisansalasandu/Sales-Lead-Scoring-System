@@ -1,0 +1,1001 @@
+lead_id,company_size,industry,location,annual_revenue_lkr,engagement_score,contact_level,demo_requested,conversion_probability,composite_score,priority_level,funnel_stage,action_recommendation
+LEAD_0001,Medium,Agriculture,Kandy,116701433,87,Manager,No,52.27,55.99,Medium,Converted,Follow up within 3-5 business days
+LEAD_0002,Medium,Finance,Kurunegala,142242154,77,Employee,No,13.54,31.58,Low,Converted,Nurture campaign - email sequence
+LEAD_0003,Medium,IT/Software,Kurunegala,134980432,100,Manager,Yes,95.12,80.58,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0004,Small,Tourism,Colombo,7239690,100,C-Level,No,73.91,72.36,Medium,Converted,Follow up within 3-5 business days
+LEAD_0005,Medium,IT/Software,Jaffna,128031305,48,Employee,No,18.75,26.93,Low,Prospect,Nurture campaign - email sequence
+LEAD_0006,Large,Education,Anuradhapura,625439788,94,Manager,Yes,0.0,31.57,Low,Converted,Nurture campaign - email sequence
+LEAD_0007,Small,Finance,Colombo,5393158,100,Manager,Yes,83.67,74.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0008,Small,Education,Matara,2499544,36,Employee,No,52.27,40.39,Low,Prospect,Nurture campaign - email sequence
+LEAD_0009,Medium,Retail,Kurunegala,78960339,97,C-Level,No,75.61,72.72,Medium,Converted,Follow up within 3-5 business days
+LEAD_0010,Large,IT/Software,Galle,968162485,78,Manager,No,48.24,52.21,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0011,Large,Retail,Anuradhapura,296805144,66,Manager,No,13.54,31.87,Low,Converted,Nurture campaign - email sequence
+LEAD_0012,Small,IT/Software,Galle,10543786,91,Manager,Yes,100.0,80.6,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0013,Small,Agriculture,Galle,7868738,89,C-Level,No,75.61,70.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0014,Small,IT/Software,Kandy,11048074,100,Employee,Yes,83.67,72.22,Medium,Converted,Follow up within 3-5 business days
+LEAD_0015,Large,Education,Anuradhapura,797100873,14,Employee,No,13.54,16.12,Low,Prospect,Nurture campaign - email sequence
+LEAD_0016,Small,IT/Software,Kandy,3729968,100,Employee,Yes,100.0,80.26,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0017,Large,Healthcare,Galle,547878204,100,Manager,Yes,100.0,83.5,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0018,Small,Education,Matara,15335612,100,Manager,Yes,83.67,74.68,Medium,Converted,Follow up within 3-5 business days
+LEAD_0019,Small,Retail,Matara,19088131,100,C-Level,Yes,83.67,77.26,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0020,Small,Finance,Kurunegala,7105872,85,C-Level,Yes,100.0,81.68,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0021,Small,Tourism,Colombo,18047991,100,Manager,No,13.54,39.57,Low,Qualified,Nurture campaign - email sequence
+LEAD_0022,Medium,Healthcare,Kurunegala,74637841,68,Manager,No,97.44,73.56,Medium,Converted,Follow up within 3-5 business days
+LEAD_0023,Large,Retail,Matara,852739510,100,C-Level,Yes,100.0,85.98,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0024,Large,Manufacturing,Negombo,534828581,100,Manager,Yes,95.12,80.51,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0025,Medium,Healthcare,Jaffna,78415447,100,Manager,No,13.54,39.63,Low,Converted,Nurture campaign - email sequence
+LEAD_0026,Small,IT/Software,Jaffna,22172625,43,Employee,No,13.54,22.96,Low,Qualified,Nurture campaign - email sequence
+LEAD_0027,Medium,Healthcare,Jaffna,135876064,85,C-Level,No,75.61,69.59,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0028,Large,Retail,Kandy,688655868,99,Manager,Yes,100.0,83.28,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0029,Medium,Education,Jaffna,25019192,64,C-Level,Yes,89.66,71.47,Medium,Converted,Follow up within 3-5 business days
+LEAD_0030,Small,Manufacturing,Galle,5063196,42,C-Level,No,52.27,46.82,Low,Prospect,Nurture campaign - email sequence
+LEAD_0031,Large,Education,Matara,769040209,100,C-Level,Yes,100.0,85.85,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0032,Small,IT/Software,Colombo,9849513,100,Employee,Yes,83.67,72.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0033,Small,Finance,Anuradhapura,9765308,100,Manager,Yes,100.0,82.68,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0034,Large,Retail,Colombo,905805333,100,Manager,No,52.27,59.51,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0035,Medium,Education,Galle,126584208,87,C-Level,Yes,100.0,81.99,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0036,Large,Healthcare,Kurunegala,672865366,30,Manager,No,100.0,65.49,Medium,Converted,Follow up within 3-5 business days
+LEAD_0037,Large,Tourism,Galle,272048025,63,Employee,Yes,89.66,65.96,Medium,Converted,Follow up within 3-5 business days
+LEAD_0038,Small,Agriculture,Anuradhapura,23081561,99,C-Level,No,95.24,82.65,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0039,Medium,Healthcare,Kandy,69018714,100,C-Level,Yes,83.67,77.3,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0040,Medium,Retail,Kandy,86377658,100,Manager,Yes,83.67,74.96,Medium,Converted,Follow up within 3-5 business days
+LEAD_0041,Large,IT/Software,Kurunegala,286253118,100,Manager,Yes,100.0,83.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0042,Small,Healthcare,Galle,8641688,79,Manager,No,63.16,59.02,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0043,Large,Finance,Colombo,644685578,100,C-Level,Yes,100.0,86.03,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0044,Medium,Education,Colombo,98979868,100,Manager,Yes,83.67,74.82,Medium,Converted,Follow up within 3-5 business days
+LEAD_0045,Medium,IT/Software,Kandy,118081360,100,Manager,Yes,100.0,83.12,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0046,Large,Finance,Jaffna,695972779,68,Manager,No,48.24,49.03,Low,Converted,Nurture campaign - email sequence
+LEAD_0047,Small,Finance,Colombo,5704925,100,Employee,Yes,83.67,72.26,Medium,Converted,Follow up within 3-5 business days
+LEAD_0048,Large,Tourism,Negombo,988747329,100,Manager,No,100.0,83.34,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0049,Large,Finance,Colombo,151116544,54,Manager,No,100.0,72.07,Medium,Converted,Follow up within 3-5 business days
+LEAD_0050,Large,Finance,Galle,602945277,74,C-Level,No,52.27,55.5,Medium,Converted,Follow up within 3-5 business days
+LEAD_0051,Large,Agriculture,Kurunegala,406589957,100,Manager,Yes,83.67,74.91,Medium,Converted,Follow up within 3-5 business days
+LEAD_0052,Medium,Healthcare,Jaffna,107400635,92,Manager,No,13.54,37.63,Low,Converted,Nurture campaign - email sequence
+LEAD_0053,Small,Manufacturing,Colombo,23404307,85,Employee,Yes,75.0,64.12,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0054,Small,Retail,Jaffna,19180028,100,Manager,Yes,83.67,74.68,Medium,Converted,Follow up within 3-5 business days
+LEAD_0055,Medium,Agriculture,Galle,114848800,100,C-Level,Yes,83.67,77.24,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0056,Medium,Manufacturing,Kurunegala,133102628,39,Manager,No,52.27,43.71,Low,Converted,Nurture campaign - email sequence
+LEAD_0057,Small,Healthcare,Galle,2309902,92,Manager,No,95.24,78.53,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0058,Large,Retail,Kandy,970256571,100,Manager,Yes,100.0,83.37,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0059,Large,Healthcare,Matara,411024964,100,C-Level,No,52.27,61.8,Medium,Converted,Follow up within 3-5 business days
+LEAD_0060,Small,Education,Anuradhapura,7145118,90,Manager,No,75.61,68.15,Medium,Converted,Follow up within 3-5 business days
+LEAD_0061,Small,Manufacturing,Matara,3815326,47,C-Level,No,63.16,53.71,Medium,Converted,Follow up within 3-5 business days
+LEAD_0062,Large,Healthcare,Jaffna,632189465,100,Manager,Yes,95.12,80.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0063,Small,Agriculture,Colombo,18022752,82,Manager,Yes,95.12,75.94,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0064,Large,Agriculture,Galle,744267911,100,C-Level,Yes,100.0,86.01,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0065,Small,Tourism,Anuradhapura,6874347,55,Employee,Yes,100.0,69.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0066,Small,Manufacturing,Anuradhapura,23432455,80,C-Level,No,95.24,77.99,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0067,Small,Education,Kandy,7029701,100,Manager,Yes,83.67,74.73,Medium,Converted,Follow up within 3-5 business days
+LEAD_0068,Medium,IT/Software,Kandy,79315602,100,C-Level,Yes,83.67,77.31,High,Demo/Trial,URGENT: Follow up on demo request immediately
+LEAD_0069,Large,Tourism,Colombo,500833767,94,Employee,No,97.44,77.72,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0070,Small,Agriculture,Kandy,10733995,100,C-Level,Yes,83.67,77.03,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0071,Medium,IT/Software,Galle,103812943,62,Manager,Yes,89.66,68.34,Medium,Converted,Follow up within 3-5 business days
+LEAD_0072,Large,Retail,Anuradhapura,800043546,38,Manager,Yes,89.66,62.28,Medium,Converted,Follow up within 3-5 business days
+LEAD_0073,Medium,Tourism,Negombo,139535540,75,Employee,No,97.44,73.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0074,Medium,Education,Kandy,62367679,100,Employee,Yes,83.67,72.08,Medium,Converted,Follow up within 3-5 business days
+LEAD_0075,Medium,Retail,Kandy,145336196,87,Manager,No,13.54,36.37,Low,Converted,Nurture campaign - email sequence
+LEAD_0076,Small,IT/Software,Matara,6972893,97,Manager,No,52.27,58.05,Medium,Converted,Follow up within 3-5 business days
+LEAD_0077,Medium,Retail,Kurunegala,65480218,100,C-Level,No,52.27,61.43,Medium,Converted,Follow up within 3-5 business days
+LEAD_0078,Medium,Tourism,Jaffna,127271023,52,C-Level,No,13.54,30.15,Low,Converted,Nurture campaign - email sequence
+LEAD_0079,Medium,Finance,Galle,64705788,96,C-Level,No,52.27,60.72,Medium,Converted,Follow up within 3-5 business days
+LEAD_0080,Large,Education,Anuradhapura,670464990,89,Employee,Yes,75.0,65.54,Medium,Converted,Follow up within 3-5 business days
+LEAD_0081,Small,Finance,Negombo,8510078,100,Employee,No,95.24,77.86,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0082,Medium,Retail,Colombo,56551023,87,Manager,No,0.0,29.92,Low,Qualified,Nurture campaign - email sequence
+LEAD_0083,Large,Manufacturing,Negombo,415339541,79,Manager,No,52.27,54.21,Medium,Converted,Follow up within 3-5 business days
+LEAD_0084,Small,Agriculture,Kurunegala,17910513,68,C-Level,No,48.24,51.54,Medium,Converted,Follow up within 3-5 business days
+LEAD_0085,Medium,Finance,Matara,133764608,49,C-Level,No,100.0,72.79,Medium,Converted,Follow up within 3-5 business days
+LEAD_0086,Small,Tourism,Kurunegala,4209201,54,C-Level,No,52.27,49.84,Low,Converted,Nurture campaign - email sequence
+LEAD_0087,Medium,Retail,Jaffna,36106355,100,C-Level,No,97.44,84.08,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0088,Large,Agriculture,Negombo,158041576,79,Employee,No,52.27,51.3,Medium,Converted,Follow up within 3-5 business days
+LEAD_0089,Medium,Education,Galle,70238647,89,C-Level,No,75.61,70.37,Medium,Converted,Follow up within 3-5 business days
+LEAD_0090,Medium,Tourism,Kurunegala,105248703,100,Manager,Yes,100.0,83.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0091,Medium,Tourism,Anuradhapura,146825763,34,Employee,No,18.75,23.23,Low,Converted,Nurture campaign - email sequence
+LEAD_0092,Medium,Tourism,Anuradhapura,59140419,59,C-Level,Yes,89.66,70.14,Medium,Converted,Follow up within 3-5 business days
+LEAD_0093,Large,Agriculture,Jaffna,976284039,100,Manager,Yes,100.0,83.37,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0094,Small,Finance,Colombo,18176044,59,Employee,No,73.91,57.14,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0095,Medium,Education,Kandy,69557200,55,Employee,No,97.44,68.13,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0096,Large,Tourism,Galle,996813833,90,Manager,Yes,100.0,81.02,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0097,Large,Finance,Matara,635978170,95,C-Level,No,75.61,72.24,Medium,Converted,Follow up within 3-5 business days
+LEAD_0098,Large,Agriculture,Negombo,152754733,52,C-Level,No,48.24,47.98,Low,Converted,Nurture campaign - email sequence
+LEAD_0099,Medium,Retail,Colombo,116285615,86,Employee,No,97.44,75.8,High,Qualified,PRIORITY: Initiate contact within 24 hours
+LEAD_0100,Large,Education,Galle,345658228,100,Manager,Yes,83.67,75.1,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0101,Large,Finance,Jaffna,559073058,92,C-Level,Yes,50.0,58.83,Medium,Converted,Follow up within 3-5 business days
+LEAD_0102,Large,Manufacturing,Negombo,329664502,86,Employee,Yes,100.0,77.01,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0103,Large,Tourism,Colombo,707394580,46,Employee,No,100.0,67.62,Medium,Converted,Follow up within 3-5 business days
+LEAD_0104,Small,Agriculture,Colombo,9385799,93,Manager,Yes,100.0,81.13,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0105,Small,Manufacturing,Jaffna,22450377,84,C-Level,Yes,100.0,81.23,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0106,Medium,Education,Negombo,70174927,38,Employee,No,13.54,21.65,Low,Converted,Nurture campaign - email sequence
+LEAD_0107,Small,Finance,Galle,22951635,30,Manager,No,13.54,22.15,Low,Prospect,Nurture campaign - email sequence
+LEAD_0108,Medium,Finance,Kandy,25910425,59,C-Level,No,63.16,56.73,Medium,Converted,Follow up within 3-5 business days
+LEAD_0109,Medium,Agriculture,Negombo,95184434,36,C-Level,No,0.0,19.46,Low,Prospect,Nurture campaign - email sequence
+LEAD_0110,Small,Manufacturing,Negombo,18674898,100,Manager,No,75.61,70.72,Medium,Converted,Follow up within 3-5 business days
+LEAD_0111,Medium,Healthcare,Matara,101206190,89,C-Level,No,75.61,70.34,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0112,Large,IT/Software,Negombo,683088893,100,C-Level,Yes,100.0,85.6,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0113,Large,Education,Kandy,813258163,96,C-Level,Yes,100.0,84.9,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0114,Large,Education,Matara,842100258,53,Employee,No,100.0,68.98,Medium,Converted,Follow up within 3-5 business days
+LEAD_0115,Small,IT/Software,Kurunegala,5051248,100,Manager,Yes,83.67,74.74,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0116,Medium,Tourism,Negombo,90813495,86,Manager,No,52.27,55.38,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0117,Large,Healthcare,Anuradhapura,152149964,100,C-Level,Yes,95.12,83.1,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0118,Large,Healthcare,Galle,683460505,95,Manager,No,97.44,80.58,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0119,Medium,IT/Software,Negombo,45076784,94,Manager,No,95.24,79.24,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0120,Medium,Agriculture,Galle,89333033,52,Employee,No,13.54,25.12,Low,Converted,Nurture campaign - email sequence
+LEAD_0121,Medium,Agriculture,Colombo,65969721,98,C-Level,Yes,95.12,82.44,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0122,Small,Finance,Negombo,13302021,32,Manager,No,52.27,41.88,Low,Prospect,Nurture campaign - email sequence
+LEAD_0123,Medium,Tourism,Anuradhapura,52650759,34,Employee,No,18.75,23.33,Low,Prospect,Nurture campaign - email sequence
+LEAD_0124,Large,Tourism,Matara,745049735,65,Employee,No,52.27,48.47,Low,Qualified,Nurture campaign - email sequence
+LEAD_0125,Large,Education,Kurunegala,996308537,100,C-Level,No,13.54,42.19,Low,Converted,Nurture campaign - email sequence
+LEAD_0126,Large,Healthcare,Negombo,271260003,100,C-Level,No,100.0,85.81,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0127,Medium,IT/Software,Anuradhapura,31250738,80,C-Level,No,13.54,37.39,Low,Converted,Nurture campaign - email sequence
+LEAD_0128,Small,Tourism,Colombo,13176063,92,Employee,No,73.91,65.21,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0129,Large,Education,Matara,578584822,55,C-Level,No,97.44,73.1,Medium,Converted,Follow up within 3-5 business days
+LEAD_0130,Small,Manufacturing,Kurunegala,18468777,77,C-Level,No,13.54,36.37,Low,Qualified,Nurture campaign - email sequence
+LEAD_0131,Large,Healthcare,Matara,403336417,53,Employee,No,48.24,42.86,Low,Converted,Nurture campaign - email sequence
+LEAD_0132,Medium,IT/Software,Kurunegala,142197799,100,Employee,Yes,83.67,72.13,Medium,Converted,Follow up within 3-5 business days
+LEAD_0133,Medium,Healthcare,Anuradhapura,54700885,100,Employee,No,95.24,77.91,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0134,Small,Manufacturing,Anuradhapura,24686119,46,Employee,No,13.54,23.62,Low,Converted,Nurture campaign - email sequence
+LEAD_0135,Medium,Retail,Negombo,34649848,50,Manager,No,13.54,27.32,Low,Converted,Nurture campaign - email sequence
+LEAD_0136,Small,Tourism,Negombo,9321147,63,Employee,Yes,100.0,70.98,Medium,Converted,Follow up within 3-5 business days
+LEAD_0137,Small,IT/Software,Anuradhapura,14863076,48,C-Level,No,13.54,29.03,Low,Converted,Nurture campaign - email sequence
+LEAD_0138,Medium,IT/Software,Anuradhapura,91247563,95,Manager,Yes,50.0,56.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0139,Large,Manufacturing,Kurunegala,795914775,100,C-Level,Yes,100.0,86.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0140,Medium,Agriculture,Matara,127966516,100,Manager,Yes,100.0,83.08,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0141,Medium,Manufacturing,Negombo,52830412,65,Employee,Yes,89.66,66.64,Medium,Converted,Follow up within 3-5 business days
+LEAD_0142,Small,Tourism,Matara,8127406,100,C-Level,No,95.24,82.82,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0143,Small,Agriculture,Negombo,16801642,100,C-Level,Yes,66.67,68.64,Medium,Converted,Follow up within 3-5 business days
+LEAD_0144,Large,Retail,Colombo,544807238,88,Manager,No,52.27,56.64,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0145,Large,Finance,Galle,936289235,75,Employee,No,97.44,73.37,Medium,Converted,Follow up within 3-5 business days
+LEAD_0146,Small,Retail,Kurunegala,20043786,89,Employee,Yes,100.0,77.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0147,Large,Finance,Anuradhapura,848607743,62,Employee,No,97.44,69.67,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0148,Small,Healthcare,Jaffna,2766651,79,Manager,No,52.27,53.66,Medium,Converted,Follow up within 3-5 business days
+LEAD_0149,Medium,Tourism,Matara,107886723,42,Manager,No,13.54,25.1,Low,Converted,Nurture campaign - email sequence
+LEAD_0150,Medium,Healthcare,Kurunegala,85873716,76,Employee,No,48.24,48.36,Low,Qualified,Nurture campaign - email sequence
+LEAD_0151,Small,Tourism,Jaffna,18119658,72,Employee,No,48.24,47.5,Low,Qualified,Nurture campaign - email sequence
+LEAD_0152,Small,Finance,Matara,5147519,81,Employee,No,75.61,63.35,Medium,Converted,Follow up within 3-5 business days
+LEAD_0153,Small,Manufacturing,Jaffna,4825336,94,Employee,No,75.61,66.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0154,Small,Healthcare,Galle,10076953,92,C-Level,Yes,100.0,83.25,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0155,Medium,Manufacturing,Matara,99425217,41,Employee,No,13.54,22.33,Low,Prospect,Nurture campaign - email sequence
+LEAD_0156,Small,Finance,Kurunegala,3453387,25,C-Level,No,52.27,42.61,Low,Converted,Nurture campaign - email sequence
+LEAD_0157,Small,Manufacturing,Matara,13471225,84,Manager,No,52.27,54.83,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0158,Small,Retail,Galle,18930228,73,C-Level,No,73.91,65.46,Medium,Converted,Follow up within 3-5 business days
+LEAD_0159,Medium,Healthcare,Kurunegala,66026656,89,Manager,No,97.44,78.93,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0160,Small,Tourism,Kandy,8579974,83,C-Level,No,75.61,68.75,Medium,Converted,Follow up within 3-5 business days
+LEAD_0161,Large,Healthcare,Anuradhapura,769418173,100,C-Level,Yes,100.0,85.57,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0162,Small,Retail,Anuradhapura,8861131,97,C-Level,No,52.27,60.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0163,Small,Retail,Kurunegala,2911050,59,Manager,Yes,46.15,45.54,Low,Converted,Nurture campaign - email sequence
+LEAD_0164,Large,Agriculture,Negombo,730980439,88,Employee,No,52.27,54.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0165,Small,Education,Kandy,18310888,78,Manager,No,13.54,33.93,Low,Qualified,Nurture campaign - email sequence
+LEAD_0166,Small,IT/Software,Colombo,7541873,80,C-Level,No,52.27,56.37,Medium,Converted,Follow up within 3-5 business days
+LEAD_0167,Small,IT/Software,Matara,12703643,100,C-Level,No,13.54,41.95,Low,Converted,Nurture campaign - email sequence
+LEAD_0168,Medium,Manufacturing,Kandy,74794644,83,C-Level,No,75.61,68.86,Medium,Converted,Follow up within 3-5 business days
+LEAD_0169,Medium,Retail,Anuradhapura,77948775,79,C-Level,No,100.0,80.25,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0170,Medium,Retail,Galle,110882825,100,Manager,Yes,83.67,75.01,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0171,Large,Finance,Anuradhapura,886042366,71,C-Level,No,48.24,52.77,Medium,Converted,Follow up within 3-5 business days
+LEAD_0172,Small,Agriculture,Anuradhapura,9557658,57,Manager,No,63.16,53.49,Medium,Converted,Follow up within 3-5 business days
+LEAD_0173,Small,Tourism,Anuradhapura,4555777,34,Manager,No,52.27,42.4,Low,Converted,Nurture campaign - email sequence
+LEAD_0174,Large,Finance,Colombo,302904441,92,Manager,Yes,95.12,78.63,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0175,Large,Tourism,Negombo,238017034,100,C-Level,Yes,100.0,85.82,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0176,Large,Retail,Kurunegala,782773152,100,Employee,Yes,100.0,80.63,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0177,Large,Finance,Kandy,879298563,57,C-Level,No,97.44,73.52,Medium,Converted,Follow up within 3-5 business days
+LEAD_0178,Large,Manufacturing,Anuradhapura,600638824,48,C-Level,No,13.54,29.36,Low,Converted,Nurture campaign - email sequence
+LEAD_0179,Small,Agriculture,Negombo,15300485,34,Employee,No,48.24,37.95,Low,Prospect,Nurture campaign - email sequence
+LEAD_0180,Large,Manufacturing,Jaffna,302580328,100,Manager,Yes,83.67,74.81,Medium,Converted,Follow up within 3-5 business days
+LEAD_0181,Medium,Manufacturing,Galle,99002693,9,Employee,No,13.54,14.47,Low,Converted,Nurture campaign - email sequence
+LEAD_0182,Large,Finance,Galle,888315474,100,C-Level,Yes,100.0,86.09,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0183,Large,Education,Kandy,610396218,45,C-Level,No,48.24,46.49,Low,Converted,Nurture campaign - email sequence
+LEAD_0184,Medium,Agriculture,Colombo,70376666,18,Employee,No,52.27,36.2,Low,Converted,Nurture campaign - email sequence
+LEAD_0185,Small,Education,Colombo,16835670,86,C-Level,No,13.54,38.42,Low,Converted,Nurture campaign - email sequence
+LEAD_0186,Small,IT/Software,Negombo,17710795,83,Manager,Yes,66.67,62.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0187,Large,Retail,Matara,453205678,87,Manager,No,13.54,37.14,Low,Converted,Nurture campaign - email sequence
+LEAD_0188,Small,Agriculture,Jaffna,3403027,97,Employee,Yes,100.0,79.57,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0189,Medium,Agriculture,Anuradhapura,147057828,94,Manager,Yes,100.0,81.26,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0190,Large,Healthcare,Negombo,506550480,91,Manager,Yes,100.0,80.82,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0191,Small,IT/Software,Kandy,23336454,78,C-Level,No,48.24,54.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0192,Medium,Retail,Anuradhapura,58108111,69,Employee,No,48.24,46.95,Low,Qualified,Nurture campaign - email sequence
+LEAD_0193,Small,Tourism,Negombo,7596311,85,C-Level,No,95.24,79.32,High,Qualified,HIGH VALUE: Schedule executive meeting
+LEAD_0194,Small,Education,Negombo,24774937,100,C-Level,No,75.61,73.23,Medium,Converted,Follow up within 3-5 business days
+LEAD_0195,Medium,Education,Matara,43163711,96,Manager,No,95.24,79.59,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0196,Medium,Agriculture,Galle,149843550,68,Employee,Yes,89.66,67.42,Medium,Converted,Follow up within 3-5 business days
+LEAD_0197,Large,Manufacturing,Anuradhapura,503450153,82,C-Level,Yes,100.0,80.95,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0198,Small,Healthcare,Matara,11858085,100,Manager,No,13.54,39.48,Low,Converted,Nurture campaign - email sequence
+LEAD_0199,Large,Tourism,Kandy,825266970,100,Manager,Yes,100.0,83.39,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0200,Small,Finance,Jaffna,16056717,100,Manager,Yes,83.67,74.5,Medium,Converted,Follow up within 3-5 business days
+LEAD_0201,Small,Finance,Negombo,18512958,100,Manager,Yes,83.67,74.59,Medium,Converted,Follow up within 3-5 business days
+LEAD_0202,Medium,Manufacturing,Colombo,114275165,74,C-Level,No,48.24,53.02,Medium,Converted,Follow up within 3-5 business days
+LEAD_0203,Large,IT/Software,Galle,635985877,100,Manager,Yes,100.0,83.54,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0204,Large,Agriculture,Colombo,814397034,100,Manager,Yes,100.0,83.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0205,Medium,Tourism,Colombo,35094458,30,Employee,No,52.27,39.0,Low,Prospect,Nurture campaign - email sequence
+LEAD_0206,Small,IT/Software,Galle,14660796,57,Employee,No,52.27,45.56,Low,Converted,Nurture campaign - email sequence
+LEAD_0207,Small,Finance,Kurunegala,16797675,88,Employee,Yes,100.0,77.4,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0208,Small,Manufacturing,Matara,23971332,78,C-Level,No,52.27,55.8,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0209,Large,Education,Kurunegala,620137545,56,Manager,No,13.54,29.07,Low,Qualified,Nurture campaign - email sequence
+LEAD_0210,Medium,Retail,Jaffna,145370272,88,Manager,Yes,100.0,79.87,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0211,Small,Finance,Colombo,12597984,85,C-Level,No,75.61,69.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0212,Medium,Tourism,Matara,106367666,47,Manager,No,100.0,69.55,Medium,Converted,Follow up within 3-5 business days
+LEAD_0213,Large,Manufacturing,Galle,811799849,40,Employee,No,100.0,65.75,Medium,Converted,Follow up within 3-5 business days
+LEAD_0214,Large,Retail,Anuradhapura,573504402,100,Employee,Yes,100.0,80.67,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0215,Small,Healthcare,Matara,20519607,74,C-Level,No,13.54,35.6,Low,Converted,Nurture campaign - email sequence
+LEAD_0216,Small,Education,Matara,9805425,74,Employee,No,73.91,60.85,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0217,Large,Education,Jaffna,300101821,100,C-Level,Yes,83.67,77.31,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0218,Small,Retail,Galle,8651607,26,Manager,No,13.54,21.1,Low,Prospect,Nurture campaign - email sequence
+LEAD_0219,Large,Tourism,Colombo,650210128,100,C-Level,Yes,100.0,85.55,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0220,Large,IT/Software,Galle,468580737,99,Manager,No,97.44,81.37,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0221,Medium,Education,Galle,122307271,70,Employee,Yes,89.66,67.88,Medium,Converted,Follow up within 3-5 business days
+LEAD_0222,Large,Education,Negombo,347743308,98,C-Level,No,100.0,85.56,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0223,Small,Education,Anuradhapura,12488899,69,Employee,No,52.27,48.55,Low,Qualified,Nurture campaign - email sequence
+LEAD_0224,Medium,Healthcare,Galle,147655589,100,C-Level,Yes,83.67,77.37,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0225,Large,IT/Software,Jaffna,521267018,97,C-Level,No,97.44,83.98,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0226,Small,Healthcare,Matara,21155045,34,C-Level,No,48.24,42.95,Low,Converted,Nurture campaign - email sequence
+LEAD_0227,Large,Manufacturing,Anuradhapura,451818754,100,Employee,Yes,83.67,72.24,Medium,Converted,Follow up within 3-5 business days
+LEAD_0228,Small,Education,Negombo,9242783,100,Manager,No,73.91,69.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0229,Small,Finance,Matara,22838661,69,Employee,Yes,0.0,22.63,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0230,Medium,Retail,Kurunegala,118909352,76,C-Level,No,100.0,79.51,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0231,Small,IT/Software,Matara,2408160,54,Manager,Yes,100.0,71.37,Medium,Converted,Follow up within 3-5 business days
+LEAD_0232,Medium,Healthcare,Negombo,125481170,100,Employee,No,75.61,68.17,Medium,Converted,Follow up within 3-5 business days
+LEAD_0233,Small,Tourism,Negombo,6462936,16,Manager,No,13.54,18.51,Low,Prospect,Nurture campaign - email sequence
+LEAD_0234,Small,IT/Software,Matara,6091405,77,C-Level,No,48.24,53.6,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0235,Large,Agriculture,Kandy,833954675,98,Employee,Yes,100.0,80.57,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0236,Large,Healthcare,Galle,269943226,85,C-Level,No,13.54,38.85,Low,Converted,Nurture campaign - email sequence
+LEAD_0237,Medium,Education,Matara,66215118,65,C-Level,No,100.0,76.9,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0238,Large,IT/Software,Kandy,783175461,58,Employee,Yes,89.66,64.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0239,Medium,Agriculture,Anuradhapura,34048603,100,Employee,Yes,95.12,78.2,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0240,Small,Healthcare,Kurunegala,4580159,100,Manager,Yes,83.67,74.75,Medium,Converted,Follow up within 3-5 business days
+LEAD_0241,Medium,Tourism,Matara,53663997,54,Manager,Yes,0.0,21.62,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0242,Medium,Healthcare,Jaffna,30215598,100,Employee,No,52.27,56.66,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0243,Large,Healthcare,Kurunegala,792737025,100,C-Level,Yes,100.0,85.55,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0244,Large,Retail,Galle,726967481,91,C-Level,Yes,100.0,83.18,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0245,Large,Agriculture,Kurunegala,976605465,100,Manager,No,52.27,59.52,Medium,Converted,Follow up within 3-5 business days
+LEAD_0246,Small,Retail,Matara,9973385,65,Employee,No,63.16,53.09,Medium,Converted,Follow up within 3-5 business days
+LEAD_0247,Medium,Retail,Kurunegala,48498572,100,Employee,Yes,83.67,72.48,Medium,Converted,Follow up within 3-5 business days
+LEAD_0248,Large,Retail,Matara,757505791,37,C-Level,No,48.24,44.21,Low,Converted,Nurture campaign - email sequence
+LEAD_0249,Large,Tourism,Anuradhapura,805610075,63,Employee,Yes,89.66,66.15,Medium,Converted,Follow up within 3-5 business days
+LEAD_0250,Medium,Finance,Anuradhapura,88299025,69,C-Level,Yes,89.66,72.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0251,Large,Agriculture,Kandy,867002892,77,C-Level,No,100.0,79.71,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0252,Medium,Retail,Galle,80041113,100,C-Level,Yes,83.67,77.49,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0253,Medium,Healthcare,Galle,35688105,57,C-Level,No,13.54,31.36,Low,Converted,Nurture campaign - email sequence
+LEAD_0254,Small,Agriculture,Jaffna,18040517,85,Manager,No,75.61,66.87,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0255,Small,Manufacturing,Anuradhapura,14156008,100,Manager,Yes,83.67,74.73,Medium,Converted,Follow up within 3-5 business days
+LEAD_0256,Large,Education,Kurunegala,518721678,100,Employee,No,100.0,80.49,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0257,Medium,Healthcare,Anuradhapura,42379660,79,C-Level,No,63.16,61.69,Medium,Converted,Follow up within 3-5 business days
+LEAD_0258,Medium,Retail,Kurunegala,96857461,55,C-Level,No,52.27,50.38,Medium,Converted,Follow up within 3-5 business days
+LEAD_0259,Small,Education,Matara,11189586,100,C-Level,Yes,83.67,77.05,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0260,Medium,Tourism,Kurunegala,37053240,100,Employee,Yes,100.0,80.28,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0261,Large,Tourism,Galle,360186261,100,Employee,No,52.27,56.64,Medium,Converted,Follow up within 3-5 business days
+LEAD_0262,Large,Retail,Matara,354776577,51,C-Level,Yes,0.0,23.52,Low,Converted,Nurture campaign - email sequence
+LEAD_0263,Large,Healthcare,Anuradhapura,720575628,100,C-Level,No,75.61,73.38,Medium,Converted,Follow up within 3-5 business days
+LEAD_0264,Large,Finance,Kurunegala,228663617,43,Manager,No,48.24,43.37,Low,Prospect,Nurture campaign - email sequence
+LEAD_0265,Small,Tourism,Matara,11612943,98,Manager,No,75.61,69.96,Medium,Converted,Follow up within 3-5 business days
+LEAD_0266,Medium,Education,Colombo,137458514,100,C-Level,Yes,100.0,85.62,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0267,Medium,Agriculture,Anuradhapura,144423629,69,Manager,No,100.0,75.15,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0268,Small,Healthcare,Anuradhapura,4984385,43,C-Level,No,13.54,27.73,Low,Converted,Nurture campaign - email sequence
+LEAD_0269,Small,Retail,Negombo,8802886,68,Manager,No,48.24,48.97,Low,Converted,Nurture campaign - email sequence
+LEAD_0270,Medium,IT/Software,Kurunegala,122701608,71,Employee,No,13.54,29.77,Low,Converted,Nurture campaign - email sequence
+LEAD_0271,Small,Education,Matara,11579524,100,Employee,Yes,83.67,72.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0272,Large,Tourism,Galle,326271777,72,Employee,No,100.0,74.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0273,Medium,Healthcare,Kandy,32203238,68,Employee,No,13.54,29.07,Low,Converted,Nurture campaign - email sequence
+LEAD_0274,Large,Education,Kandy,904564818,66,C-Level,No,52.27,53.47,Medium,Converted,Follow up within 3-5 business days
+LEAD_0275,Large,Finance,Anuradhapura,246892829,55,Manager,Yes,8.33,26.31,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0276,Medium,Healthcare,Galle,115192551,92,Employee,Yes,100.0,78.62,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0277,Medium,Agriculture,Matara,99979840,100,Employee,No,100.0,80.33,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0278,Medium,Tourism,Kandy,123840107,100,C-Level,Yes,83.67,77.3,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0279,Large,Healthcare,Kurunegala,845036087,63,C-Level,No,52.27,52.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0280,Small,Manufacturing,Galle,11788431,74,C-Level,No,48.24,52.93,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0281,Large,Finance,Colombo,475152722,75,Employee,No,100.0,74.8,Medium,Converted,Follow up within 3-5 business days
+LEAD_0282,Large,Tourism,Kandy,464308641,66,C-Level,No,52.27,53.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0283,Medium,Finance,Matara,146073364,81,Employee,Yes,75.0,63.15,Medium,Converted,Follow up within 3-5 business days
+LEAD_0284,Large,Finance,Colombo,619705173,61,Employee,No,48.24,45.04,Low,Converted,Nurture campaign - email sequence
+LEAD_0285,Medium,Retail,Kurunegala,27864200,76,Employee,No,13.54,31.42,Low,Converted,Nurture campaign - email sequence
+LEAD_0286,Medium,Manufacturing,Negombo,71831221,87,Employee,No,13.54,34.14,Low,Qualified,Nurture campaign - email sequence
+LEAD_0287,Medium,Agriculture,Galle,143130326,70,Employee,No,48.24,47.03,Low,Converted,Nurture campaign - email sequence
+LEAD_0288,Medium,Agriculture,Jaffna,86622125,100,Employee,Yes,83.67,72.39,Medium,Converted,Follow up within 3-5 business days
+LEAD_0289,Small,Finance,Negombo,12608458,100,C-Level,Yes,83.67,77.19,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0290,Medium,Manufacturing,Kurunegala,58149594,100,C-Level,No,97.44,84.08,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0291,Large,Tourism,Kurunegala,507453429,52,Employee,No,100.0,69.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0292,Medium,IT/Software,Kandy,130068857,69,Manager,No,13.54,31.93,Low,Converted,Nurture campaign - email sequence
+LEAD_0293,Small,Healthcare,Matara,18686321,54,Employee,No,13.54,25.61,Low,Converted,Nurture campaign - email sequence
+LEAD_0294,Small,IT/Software,Galle,7141762,100,Employee,Yes,83.67,72.17,Medium,Converted,Follow up within 3-5 business days
+LEAD_0295,Small,Retail,Negombo,5683602,35,Employee,No,52.27,40.12,Low,Converted,Nurture campaign - email sequence
+LEAD_0296,Small,Manufacturing,Kurunegala,19871683,19,Employee,No,52.27,36.04,Low,Converted,Nurture campaign - email sequence
+LEAD_0297,Medium,Healthcare,Galle,97929592,69,C-Level,No,97.44,76.37,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0298,Small,Retail,Anuradhapura,3966760,90,Employee,No,52.27,53.79,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0299,Large,Education,Kandy,634011712,100,Manager,No,97.44,82.01,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0300,Small,Agriculture,Colombo,1108732,97,Manager,No,73.91,69.13,Medium,Converted,Follow up within 3-5 business days
+LEAD_0301,Small,Tourism,Matara,17359339,82,C-Level,No,95.24,78.56,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0302,Small,Tourism,Anuradhapura,12932718,66,Employee,No,13.54,28.7,Low,Converted,Nurture campaign - email sequence
+LEAD_0303,Small,Manufacturing,Kurunegala,15192024,85,C-Level,No,75.61,69.39,Medium,Converted,Follow up within 3-5 business days
+LEAD_0304,Medium,Finance,Kurunegala,57519555,83,C-Level,No,75.61,69.04,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0305,Medium,Education,Negombo,27637669,76,C-Level,No,97.44,78.25,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0306,Medium,Manufacturing,Galle,87184440,58,C-Level,Yes,89.66,69.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0307,Large,Healthcare,Galle,478845493,100,Manager,No,13.54,40.26,Low,Converted,Nurture campaign - email sequence
+LEAD_0308,Small,Agriculture,Jaffna,5919853,91,C-Level,Yes,95.12,80.67,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0309,Medium,Retail,Colombo,141025220,97,C-Level,Yes,100.0,84.76,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0310,Small,Finance,Negombo,23234447,67,Manager,No,52.27,50.8,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0311,Medium,IT/Software,Matara,90497996,83,Manager,Yes,95.12,76.06,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0312,Large,IT/Software,Kurunegala,572786725,98,C-Level,No,52.27,61.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0313,Small,Manufacturing,Anuradhapura,1500242,97,C-Level,Yes,95.12,82.08,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0314,Medium,Retail,Kurunegala,148595099,64,C-Level,No,52.27,52.71,Medium,Converted,Follow up within 3-5 business days
+LEAD_0315,Medium,Education,Kandy,31494260,83,Employee,No,97.44,75.06,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0316,Small,Tourism,Negombo,5666467,97,Employee,No,73.91,66.53,Medium,Converted,Follow up within 3-5 business days
+LEAD_0317,Medium,Agriculture,Galle,44856627,20,Employee,No,52.27,36.8,Low,Converted,Nurture campaign - email sequence
+LEAD_0318,Large,Manufacturing,Jaffna,394939174,49,Employee,Yes,89.66,62.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0319,Small,Agriculture,Galle,20476501,100,C-Level,Yes,100.0,85.3,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0320,Large,Finance,Anuradhapura,719025374,99,Manager,Yes,100.0,82.65,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0321,Large,Agriculture,Galle,224697058,100,C-Level,Yes,100.0,85.67,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0322,Large,Tourism,Colombo,390681681,100,Manager,Yes,83.67,74.84,Medium,Converted,Follow up within 3-5 business days
+LEAD_0323,Large,Healthcare,Kurunegala,161679221,100,Employee,Yes,83.67,72.69,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0324,Medium,Education,Kurunegala,98404927,69,Manager,No,48.24,49.45,Low,Converted,Nurture campaign - email sequence
+LEAD_0325,Medium,IT/Software,Colombo,29658964,100,C-Level,Yes,83.67,77.19,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0326,Small,Education,Galle,7104873,100,C-Level,No,73.91,72.17,Medium,Converted,Follow up within 3-5 business days
+LEAD_0327,Small,Education,Negombo,2062434,100,Manager,No,95.24,80.4,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0328,Large,Education,Kurunegala,973483840,100,Employee,Yes,100.0,80.98,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0329,Small,Manufacturing,Matara,3326159,46,C-Level,No,13.54,28.49,Low,Prospect,Nurture campaign - email sequence
+LEAD_0330,Medium,Agriculture,Matara,35074770,28,Manager,No,13.54,21.83,Low,Prospect,Nurture campaign - email sequence
+LEAD_0331,Large,Finance,Colombo,532760584,100,Employee,Yes,100.0,80.83,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0332,Large,Healthcare,Colombo,787331945,30,Employee,No,0.0,13.03,Low,Prospect,Nurture campaign - email sequence
+LEAD_0333,Small,Finance,Anuradhapura,23291289,62,C-Level,No,13.54,32.54,Low,Converted,Nurture campaign - email sequence
+LEAD_0334,Small,Healthcare,Matara,15297464,100,C-Level,No,95.24,83.04,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0335,Large,IT/Software,Kandy,354057021,87,Manager,Yes,100.0,80.23,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0336,Large,Healthcare,Matara,918446483,78,Manager,No,48.24,51.96,Medium,Converted,Follow up within 3-5 business days
+LEAD_0337,Medium,Manufacturing,Kurunegala,119688352,85,C-Level,No,52.27,57.64,Medium,Converted,Follow up within 3-5 business days
+LEAD_0338,Large,Manufacturing,Negombo,829880150,95,Manager,No,52.27,57.87,Medium,Converted,Follow up within 3-5 business days
+LEAD_0339,Small,Retail,Jaffna,6609375,100,Manager,Yes,100.0,82.92,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0340,Large,Agriculture,Negombo,330495419,51,Employee,No,100.0,68.3,Medium,Converted,Follow up within 3-5 business days
+LEAD_0341,Medium,Finance,Matara,105019280,60,C-Level,No,97.44,74.16,Medium,Converted,Follow up within 3-5 business days
+LEAD_0342,Large,Education,Galle,474978386,100,Manager,Yes,100.0,83.12,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0343,Small,Tourism,Colombo,3404541,81,Employee,Yes,75.0,62.95,Medium,Converted,Follow up within 3-5 business days
+LEAD_0344,Large,Finance,Negombo,411064035,95,Manager,No,52.27,58.48,Medium,Converted,Follow up within 3-5 business days
+LEAD_0345,Medium,IT/Software,Galle,104921200,87,C-Level,No,52.27,58.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0346,Medium,Finance,Colombo,97530189,87,C-Level,No,52.27,58.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0347,Small,Retail,Galle,19223794,100,Manager,Yes,83.67,74.68,Medium,Converted,Follow up within 3-5 business days
+LEAD_0348,Medium,Agriculture,Kandy,88727524,96,C-Level,Yes,95.12,81.95,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0349,Small,IT/Software,Kurunegala,12721560,49,Manager,No,52.27,46.11,Low,Qualified,Nurture campaign - email sequence
+LEAD_0350,Large,Tourism,Kandy,326963126,97,Manager,Yes,100.0,82.8,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0351,Large,Education,Colombo,959513002,64,C-Level,No,52.27,52.89,Medium,Converted,Follow up within 3-5 business days
+LEAD_0352,Large,Education,Anuradhapura,492735168,81,Employee,Yes,100.0,75.76,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0353,Small,Finance,Galle,13371594,88,C-Level,No,52.27,58.55,Medium,Converted,Follow up within 3-5 business days
+LEAD_0354,Large,Retail,Galle,459060095,65,Employee,No,100.0,72.2,Medium,Converted,Follow up within 3-5 business days
+LEAD_0355,Small,Tourism,Anuradhapura,8695824,95,Manager,No,75.61,69.5,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0356,Large,Agriculture,Anuradhapura,160474850,100,Manager,Yes,83.67,75.39,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0357,Large,Finance,Colombo,762826432,48,Manager,No,13.54,27.11,Low,Converted,Nurture campaign - email sequence
+LEAD_0358,Medium,Agriculture,Kurunegala,84962675,99,C-Level,No,100.0,85.11,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0359,Small,IT/Software,Kandy,11702537,79,C-Level,No,13.54,36.81,Low,Converted,Nurture campaign - email sequence
+LEAD_0360,Large,Tourism,Kandy,778654767,54,Manager,No,13.54,28.26,Low,Converted,Nurture campaign - email sequence
+LEAD_0361,Small,Healthcare,Kandy,13843522,100,Employee,Yes,83.67,72.18,Medium,Converted,Follow up within 3-5 business days
+LEAD_0362,Medium,Tourism,Kurunegala,118011184,100,C-Level,Yes,83.67,77.1,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0363,Medium,Manufacturing,Kandy,140500224,64,Manager,Yes,8.33,27.92,Low,Converted,Nurture campaign - email sequence
+LEAD_0364,Large,Finance,Negombo,831006284,43,Manager,No,52.27,45.29,Low,Converted,Nurture campaign - email sequence
+LEAD_0365,Medium,Retail,Jaffna,34998481,12,Employee,No,48.24,32.45,Low,Prospect,Nurture campaign - email sequence
+LEAD_0366,Medium,Education,Colombo,128558899,62,C-Level,Yes,89.66,70.89,Medium,Converted,Follow up within 3-5 business days
+LEAD_0367,Medium,IT/Software,Colombo,116944661,98,Manager,No,13.54,39.38,Low,Converted,Nurture campaign - email sequence
+LEAD_0368,Large,Finance,Kandy,748585541,31,Employee,No,48.24,37.74,Low,Converted,Nurture campaign - email sequence
+LEAD_0369,Small,Retail,Anuradhapura,14081529,51,C-Level,No,48.24,47.12,Low,Engaged,Nurture campaign - email sequence
+LEAD_0370,Large,Tourism,Negombo,826465125,100,Manager,Yes,100.0,83.31,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0371,Large,Retail,Kurunegala,247390224,100,C-Level,Yes,83.67,77.71,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0372,Large,IT/Software,Negombo,475440947,94,Employee,Yes,95.12,76.96,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0373,Small,Retail,Colombo,2169666,100,Manager,No,95.24,80.51,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0374,Small,Tourism,Jaffna,23048537,100,C-Level,Yes,50.0,60.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0375,Large,Manufacturing,Galle,973954955,43,Employee,No,100.0,66.57,Medium,Converted,Follow up within 3-5 business days
+LEAD_0376,Large,Agriculture,Jaffna,430811439,57,Manager,Yes,89.66,67.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0377,Small,Finance,Matara,17034414,94,Manager,Yes,100.0,81.34,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0378,Medium,Education,Kurunegala,143929846,87,C-Level,No,52.27,58.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0379,Small,Retail,Colombo,6758962,70,Employee,Yes,46.15,45.86,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0380,Small,Manufacturing,Negombo,1751361,100,Employee,Yes,83.67,72.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0381,Small,Tourism,Anuradhapura,14691739,92,C-Level,No,75.61,70.98,Medium,Converted,Follow up within 3-5 business days
+LEAD_0382,Large,Finance,Negombo,430841547,58,Manager,Yes,89.66,67.28,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0383,Small,Finance,Galle,10452645,100,Manager,Yes,50.0,57.79,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0384,Large,Healthcare,Jaffna,558986914,64,Employee,Yes,89.66,66.41,Medium,Converted,Follow up within 3-5 business days
+LEAD_0385,Medium,Finance,Negombo,55953937,65,Manager,Yes,89.66,69.23,Medium,Converted,Follow up within 3-5 business days
+LEAD_0386,Large,Retail,Kandy,173690982,63,C-Level,No,52.27,52.28,Medium,Converted,Follow up within 3-5 business days
+LEAD_0387,Small,Healthcare,Galle,18672180,100,Manager,Yes,83.67,74.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0388,Large,Tourism,Matara,693877006,100,Employee,Yes,100.0,80.72,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0389,Large,Education,Negombo,492314201,100,C-Level,Yes,95.12,83.5,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0390,Small,Healthcare,Kurunegala,14108199,23,Employee,No,13.54,17.7,Low,Prospect,Nurture campaign - email sequence
+LEAD_0391,Large,Manufacturing,Negombo,599728494,100,Employee,Yes,100.0,80.92,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0392,Medium,Healthcare,Kurunegala,110416255,85,Employee,No,97.44,75.23,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0393,Medium,Finance,Jaffna,123485640,100,C-Level,No,100.0,85.64,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0394,Medium,IT/Software,Kandy,146103209,100,C-Level,No,52.27,61.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0395,Small,Education,Colombo,11741106,85,C-Level,No,73.91,68.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0396,Medium,Manufacturing,Matara,146873654,100,Employee,Yes,100.0,80.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0397,Large,Retail,Anuradhapura,530322421,53,Manager,No,97.44,70.52,Medium,Converted,Follow up within 3-5 business days
+LEAD_0398,Medium,Healthcare,Colombo,133918492,100,Manager,Yes,100.0,82.77,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0399,Small,Healthcare,Kandy,10117353,57,C-Level,No,48.24,48.68,Low,Engaged,Nurture campaign - email sequence
+LEAD_0400,Large,Healthcare,Kandy,604547984,87,Manager,No,100.0,80.34,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0401,Medium,Finance,Kurunegala,44356438,100,Employee,Yes,83.67,72.41,Medium,Converted,Follow up within 3-5 business days
+LEAD_0402,Large,Retail,Galle,395239838,100,Manager,Yes,100.0,83.58,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0403,Small,Manufacturing,Matara,6985967,47,Manager,No,13.54,26.26,Low,Prospect,Nurture campaign - email sequence
+LEAD_0404,Small,Education,Galle,13276746,100,Employee,Yes,100.0,80.43,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0405,Medium,Finance,Matara,42756881,83,Employee,No,13.54,32.89,Low,Qualified,Nurture campaign - email sequence
+LEAD_0406,Small,Finance,Kandy,9987513,51,Employee,Yes,100.0,67.93,Medium,Converted,Follow up within 3-5 business days
+LEAD_0407,Large,Retail,Anuradhapura,757559129,82,C-Level,No,97.44,79.81,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0408,Large,Education,Jaffna,859989690,100,C-Level,No,97.44,84.25,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0409,Medium,Agriculture,Colombo,115491701,62,Employee,No,48.24,45.16,Low,Qualified,Nurture campaign - email sequence
+LEAD_0410,Large,Manufacturing,Galle,260293599,55,Employee,No,13.54,26.39,Low,Converted,Nurture campaign - email sequence
+LEAD_0411,Large,Finance,Matara,806785231,100,Manager,Yes,100.0,83.06,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0412,Large,Finance,Jaffna,877066594,15,Manager,No,52.27,38.2,Low,Converted,Nurture campaign - email sequence
+LEAD_0413,Medium,Tourism,Negombo,49772420,75,Employee,No,52.27,50.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0414,Small,Tourism,Anuradhapura,1962343,32,C-Level,No,48.24,42.28,Low,Prospect,Nurture campaign - email sequence
+LEAD_0415,Small,Healthcare,Kandy,4175730,91,Employee,No,73.91,64.98,Medium,Converted,Follow up within 3-5 business days
+LEAD_0416,Large,Finance,Jaffna,558112107,100,C-Level,Yes,83.67,77.21,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0417,Small,Tourism,Jaffna,9994647,100,Employee,Yes,83.67,72.25,Medium,Converted,Follow up within 3-5 business days
+LEAD_0418,Large,Manufacturing,Matara,892752058,100,C-Level,Yes,100.0,85.64,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0419,Large,Healthcare,Anuradhapura,274032013,39,Employee,No,48.24,39.59,Low,Converted,Nurture campaign - email sequence
+LEAD_0420,Medium,Healthcare,Kandy,27571613,94,Employee,Yes,100.0,79.17,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0421,Large,Agriculture,Jaffna,958057736,69,Manager,Yes,89.66,69.99,Medium,Converted,Follow up within 3-5 business days
+LEAD_0422,Large,Agriculture,Anuradhapura,777506781,53,Manager,No,97.44,70.19,Medium,Converted,Follow up within 3-5 business days
+LEAD_0423,Medium,Healthcare,Galle,72027187,75,C-Level,Yes,95.12,76.95,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0424,Large,Manufacturing,Kandy,449552077,100,Manager,Yes,83.67,74.96,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0425,Medium,Healthcare,Kurunegala,98250695,68,Employee,Yes,8.33,26.77,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0426,Small,Healthcare,Anuradhapura,10693889,77,Manager,Yes,100.0,76.94,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0427,Small,IT/Software,Matara,13811691,57,Employee,No,73.91,56.38,Medium,Converted,Follow up within 3-5 business days
+LEAD_0428,Medium,Agriculture,Kandy,131118625,100,C-Level,No,100.0,85.63,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0429,Small,IT/Software,Matara,8452488,50,C-Level,No,18.75,32.31,Low,Converted,Nurture campaign - email sequence
+LEAD_0430,Small,Agriculture,Negombo,9518431,67,Employee,No,52.27,48.15,Low,Converted,Nurture campaign - email sequence
+LEAD_0431,Medium,Manufacturing,Galle,139133858,39,Manager,No,52.27,43.91,Low,Converted,Nurture campaign - email sequence
+LEAD_0432,Medium,Education,Kurunegala,102754692,76,Manager,Yes,100.0,76.95,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0433,Small,Manufacturing,Kurunegala,1877197,59,C-Level,No,73.91,61.88,Medium,Converted,Follow up within 3-5 business days
+LEAD_0434,Large,Retail,Anuradhapura,661940658,49,Employee,No,48.24,41.94,Low,Converted,Nurture campaign - email sequence
+LEAD_0435,Large,IT/Software,Kurunegala,366393790,94,C-Level,Yes,100.0,84.21,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0436,Large,Manufacturing,Kandy,996125094,99,C-Level,Yes,100.0,85.18,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0437,Medium,Tourism,Colombo,105847966,82,Employee,No,52.27,51.92,Medium,Converted,Follow up within 3-5 business days
+LEAD_0438,Large,Agriculture,Matara,521177033,42,C-Level,No,100.0,71.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0439,Medium,Tourism,Negombo,50936847,51,Employee,No,18.75,27.72,Low,Engaged,Nurture campaign - email sequence
+LEAD_0440,Medium,IT/Software,Anuradhapura,62668223,55,Employee,Yes,8.33,23.14,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0441,Medium,Finance,Kurunegala,56726445,93,C-Level,Yes,100.0,83.75,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0442,Large,Manufacturing,Colombo,383136633,100,Employee,Yes,100.0,80.63,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0443,Medium,Education,Kandy,116150094,100,Manager,Yes,100.0,82.73,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0444,Small,Finance,Kandy,17025585,50,Employee,No,18.75,27.1,Low,Converted,Nurture campaign - email sequence
+LEAD_0445,Medium,IT/Software,Jaffna,141228681,50,Manager,Yes,89.66,65.1,Medium,Converted,Follow up within 3-5 business days
+LEAD_0446,Large,Retail,Colombo,632456898,89,Manager,Yes,95.12,77.78,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0447,Medium,IT/Software,Anuradhapura,65483770,64,Employee,Yes,89.66,66.24,Medium,Converted,Follow up within 3-5 business days
+LEAD_0448,Medium,Education,Kandy,136867259,100,C-Level,Yes,95.12,82.9,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0449,Large,IT/Software,Kurunegala,872392430,100,C-Level,No,97.44,84.24,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0450,Small,IT/Software,Jaffna,21872173,93,Employee,No,73.91,65.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0451,Small,Retail,Galle,3226360,100,Employee,Yes,83.67,72.01,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0452,Small,Education,Negombo,3669164,100,Employee,No,95.24,77.95,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0453,Small,Manufacturing,Kurunegala,21354164,68,Manager,Yes,89.66,69.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0454,Medium,Education,Negombo,61333202,64,Manager,Yes,89.66,68.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0455,Large,Agriculture,Galle,201548641,83,Employee,No,52.27,52.67,Medium,Converted,Follow up within 3-5 business days
+LEAD_0456,Small,Tourism,Kurunegala,22521160,60,Manager,Yes,46.15,45.82,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0457,Small,Tourism,Anuradhapura,13917191,68,Manager,Yes,46.15,47.99,Low,Converted,Nurture campaign - email sequence
+LEAD_0458,Small,Agriculture,Galle,5550713,66,Employee,No,63.16,53.42,Medium,Converted,Follow up within 3-5 business days
+LEAD_0459,Small,Tourism,Anuradhapura,23883958,100,C-Level,No,13.54,42.09,Low,Converted,Nurture campaign - email sequence
+LEAD_0460,Medium,Agriculture,Kurunegala,59635591,68,C-Level,No,48.24,51.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0461,Small,IT/Software,Jaffna,7318073,100,Manager,Yes,100.0,82.74,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0462,Small,Agriculture,Kurunegala,16051030,38,Employee,No,52.27,41.01,Low,Converted,Nurture campaign - email sequence
+LEAD_0463,Small,Finance,Galle,6847788,75,C-Level,No,52.27,55.24,Medium,Converted,Follow up within 3-5 business days
+LEAD_0464,Small,Healthcare,Matara,20392787,83,C-Level,No,52.27,57.08,Medium,Converted,Follow up within 3-5 business days
+LEAD_0465,Small,IT/Software,Kandy,20620869,100,C-Level,Yes,100.0,85.19,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0466,Small,IT/Software,Anuradhapura,22946247,81,C-Level,No,75.61,68.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0467,Medium,IT/Software,Kandy,101633813,45,Manager,No,18.75,28.67,Low,Converted,Nurture campaign - email sequence
+LEAD_0468,Medium,Finance,Kurunegala,108488118,73,Manager,No,52.27,52.2,Medium,Converted,Follow up within 3-5 business days
+LEAD_0469,Small,Retail,Negombo,14900139,22,Manager,No,52.27,39.43,Low,Prospect,Nurture campaign - email sequence
+LEAD_0470,Small,Manufacturing,Matara,6075691,73,Manager,No,63.16,57.48,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0471,Medium,Finance,Anuradhapura,35844153,100,C-Level,Yes,83.67,77.38,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0472,Medium,Education,Anuradhapura,73961718,88,Employee,No,13.54,34.01,Low,Qualified,Nurture campaign - email sequence
+LEAD_0473,Large,Agriculture,Colombo,820175416,62,C-Level,No,13.54,33.04,Low,Converted,Nurture campaign - email sequence
+LEAD_0474,Small,Healthcare,Kandy,18288724,68,C-Level,No,13.54,33.97,Low,Converted,Nurture campaign - email sequence
+LEAD_0475,Medium,Retail,Negombo,92543707,62,Employee,No,52.27,46.91,Low,Converted,Nurture campaign - email sequence
+LEAD_0476,Medium,Finance,Jaffna,78411469,100,Employee,No,97.44,79.14,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0477,Large,Retail,Anuradhapura,300767595,69,Manager,No,48.24,49.48,Low,Qualified,Nurture campaign - email sequence
+LEAD_0478,Medium,Agriculture,Matara,61150844,74,Manager,Yes,95.12,74.17,Medium,Converted,Follow up within 3-5 business days
+LEAD_0479,Large,Tourism,Galle,832754635,16,Employee,No,13.54,16.18,Low,Prospect,Nurture campaign - email sequence
+LEAD_0480,Medium,Agriculture,Kurunegala,124311346,23,Employee,No,18.75,20.57,Low,Prospect,Nurture campaign - email sequence
+LEAD_0481,Medium,Tourism,Kurunegala,130529149,77,Employee,No,100.0,74.67,Medium,Converted,Follow up within 3-5 business days
+LEAD_0482,Small,Tourism,Anuradhapura,4485361,100,C-Level,No,75.61,73.12,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0483,Large,Education,Negombo,291425785,100,C-Level,Yes,83.67,77.33,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0484,Small,Agriculture,Kurunegala,15775351,85,C-Level,No,95.24,79.29,High,Qualified,HIGH VALUE: Schedule executive meeting
+LEAD_0485,Small,Manufacturing,Anuradhapura,4385115,100,C-Level,Yes,83.67,77.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0486,Large,IT/Software,Negombo,212981010,93,C-Level,No,52.27,60.15,Medium,Converted,Follow up within 3-5 business days
+LEAD_0487,Small,Retail,Matara,15521765,79,Manager,No,52.27,53.61,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0488,Small,Finance,Jaffna,14138398,73,Manager,No,13.54,32.73,Low,Converted,Nurture campaign - email sequence
+LEAD_0489,Medium,Manufacturing,Galle,124820327,26,Employee,No,13.54,18.7,Low,Prospect,Nurture campaign - email sequence
+LEAD_0490,Medium,Agriculture,Kandy,134059422,88,Manager,No,75.61,67.69,Medium,Converted,Follow up within 3-5 business days
+LEAD_0491,Large,Agriculture,Galle,418331156,64,Employee,Yes,89.66,66.94,Medium,Converted,Follow up within 3-5 business days
+LEAD_0492,Small,Healthcare,Galle,3212314,66,Manager,No,63.16,55.82,Medium,Converted,Follow up within 3-5 business days
+LEAD_0493,Small,Healthcare,Matara,24277867,83,Employee,Yes,100.0,76.19,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0494,Medium,IT/Software,Matara,76920052,69,C-Level,No,97.44,76.61,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0495,Medium,Healthcare,Negombo,121289404,84,Manager,No,13.54,35.69,Low,Converted,Nurture campaign - email sequence
+LEAD_0496,Large,Retail,Colombo,334898194,90,Manager,Yes,95.12,78.14,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0497,Large,Tourism,Galle,801244600,56,C-Level,No,52.27,51.1,Medium,Converted,Follow up within 3-5 business days
+LEAD_0498,Large,Finance,Colombo,369021408,100,C-Level,Yes,100.0,85.91,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0499,Large,Retail,Anuradhapura,610559012,100,Employee,Yes,100.0,81.01,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0500,Large,Tourism,Negombo,702704492,92,Manager,Yes,95.12,78.82,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0501,Large,Agriculture,Anuradhapura,881190914,96,Employee,No,100.0,80.07,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0502,Small,IT/Software,Colombo,17624152,100,Manager,Yes,100.0,82.79,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0503,Small,Education,Jaffna,24083493,90,Employee,Yes,95.12,75.22,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0504,Large,Retail,Anuradhapura,261924729,76,C-Level,Yes,95.12,77.32,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0505,Medium,Finance,Matara,129320670,65,C-Level,No,48.24,51.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0506,Small,Education,Colombo,10163655,100,Employee,Yes,100.0,80.25,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0507,Small,Retail,Galle,20397420,100,Manager,Yes,100.0,82.76,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0508,Small,Agriculture,Kurunegala,4250741,89,Employee,No,13.54,34.35,Low,Qualified,Nurture campaign - email sequence
+LEAD_0509,Medium,Retail,Anuradhapura,44339040,100,Manager,Yes,95.12,80.65,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0510,Medium,Manufacturing,Kandy,87470291,25,Employee,No,13.54,18.68,Low,Prospect,Nurture campaign - email sequence
+LEAD_0511,Small,IT/Software,Colombo,23344392,26,Employee,No,48.24,35.77,Low,Converted,Nurture campaign - email sequence
+LEAD_0512,Small,Tourism,Anuradhapura,9177476,100,Manager,No,13.54,39.72,Low,Qualified,Nurture campaign - email sequence
+LEAD_0513,Small,Retail,Jaffna,14211864,21,Employee,No,48.24,34.56,Low,Prospect,Nurture campaign - email sequence
+LEAD_0514,Medium,Finance,Jaffna,40550691,54,Employee,No,63.16,50.41,Medium,Converted,Follow up within 3-5 business days
+LEAD_0515,Large,Healthcare,Galle,220238688,42,Employee,No,13.54,22.79,Low,Converted,Nurture campaign - email sequence
+LEAD_0516,Medium,Manufacturing,Kurunegala,79341326,100,C-Level,No,100.0,85.54,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0517,Small,IT/Software,Jaffna,21095744,50,Manager,No,48.24,44.28,Low,Converted,Nurture campaign - email sequence
+LEAD_0518,Large,Manufacturing,Kandy,875459375,90,C-Level,No,100.0,83.45,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0519,Large,Tourism,Anuradhapura,531256617,77,Employee,No,100.0,74.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0520,Small,Manufacturing,Colombo,10611746,78,Manager,No,52.27,53.54,Medium,Converted,Follow up within 3-5 business days
+LEAD_0521,Medium,Tourism,Galle,122246738,100,Employee,Yes,83.67,72.07,Medium,Converted,Follow up within 3-5 business days
+LEAD_0522,Small,Manufacturing,Anuradhapura,7589662,82,C-Level,No,75.61,68.66,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0523,Large,Education,Kandy,778525402,35,Manager,No,52.27,43.27,Low,Converted,Nurture campaign - email sequence
+LEAD_0524,Small,Agriculture,Kandy,19925248,94,C-Level,Yes,95.12,81.31,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0525,Medium,Finance,Jaffna,100697849,57,Employee,No,100.0,69.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0526,Small,Education,Jaffna,1740549,37,Employee,Yes,46.15,37.52,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0527,Small,Tourism,Kurunegala,1378171,62,Employee,No,52.27,47.03,Low,Qualified,Nurture campaign - email sequence
+LEAD_0528,Small,Tourism,Kandy,22052489,54,Employee,No,63.16,50.31,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0529,Large,Tourism,Jaffna,296899374,99,Employee,Yes,100.0,80.67,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0530,Medium,Healthcare,Anuradhapura,118299001,91,Manager,No,13.54,37.49,Low,Converted,Nurture campaign - email sequence
+LEAD_0531,Medium,Healthcare,Jaffna,91754055,80,C-Level,Yes,66.67,63.66,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0532,Small,Retail,Kandy,13195878,66,Employee,No,13.54,28.44,Low,Converted,Nurture campaign - email sequence
+LEAD_0533,Medium,Tourism,Jaffna,75584429,85,Employee,No,52.27,52.62,Medium,Converted,Follow up within 3-5 business days
+LEAD_0534,Medium,Healthcare,Negombo,149145571,52,Manager,No,13.54,27.78,Low,Converted,Nurture campaign - email sequence
+LEAD_0535,Medium,Finance,Colombo,45678261,93,Employee,No,75.61,66.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0536,Large,IT/Software,Jaffna,173508593,81,C-Level,Yes,100.0,80.82,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0537,Medium,Education,Jaffna,124265863,100,C-Level,No,100.0,85.4,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0538,Medium,Finance,Jaffna,33803601,100,C-Level,Yes,83.67,77.23,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0539,Large,Agriculture,Galle,590180814,100,C-Level,No,52.27,62.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0540,Small,Healthcare,Kurunegala,3943574,100,C-Level,Yes,83.67,77.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0541,Small,IT/Software,Galle,5089614,100,C-Level,Yes,83.67,77.13,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0542,Medium,IT/Software,Jaffna,120021303,83,C-Level,No,52.27,57.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0543,Small,IT/Software,Kurunegala,2369698,76,Manager,No,13.54,33.42,Low,Converted,Nurture campaign - email sequence
+LEAD_0544,Small,Tourism,Jaffna,6107852,52,Employee,Yes,46.15,41.43,Low,Converted,Nurture campaign - email sequence
+LEAD_0545,Large,IT/Software,Kandy,712651513,94,Employee,Yes,50.0,53.95,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0546,Large,Healthcare,Galle,730035158,36,Employee,No,52.27,41.23,Low,Converted,Nurture campaign - email sequence
+LEAD_0547,Large,Healthcare,Kandy,798568033,55,C-Level,No,48.24,48.87,Low,Converted,Nurture campaign - email sequence
+LEAD_0548,Small,Retail,Kandy,5928509,89,C-Level,No,75.61,70.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0549,Large,Agriculture,Kandy,412464584,100,Manager,Yes,100.0,83.19,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0550,Small,Finance,Matara,1436291,50,C-Level,No,13.54,29.68,Low,Qualified,Nurture campaign - email sequence
+LEAD_0551,Medium,Healthcare,Kurunegala,98950344,100,Employee,Yes,100.0,80.37,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0552,Small,Tourism,Kandy,20618245,72,Manager,No,73.91,62.65,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0553,Small,Agriculture,Galle,18362979,93,Manager,Yes,100.0,81.08,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0554,Small,Healthcare,Colombo,20172934,88,C-Level,No,73.91,69.27,Medium,Converted,Follow up within 3-5 business days
+LEAD_0555,Small,Agriculture,Matara,5399240,100,C-Level,No,52.27,61.37,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0556,Medium,Tourism,Galle,102098610,95,C-Level,No,13.54,40.81,Low,Converted,Nurture campaign - email sequence
+LEAD_0557,Medium,IT/Software,Colombo,36656673,99,Employee,Yes,95.12,77.92,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0558,Medium,Retail,Negombo,146439217,28,Employee,No,13.54,19.07,Low,Converted,Nurture campaign - email sequence
+LEAD_0559,Small,Healthcare,Kurunegala,1203420,80,Manager,No,52.27,54.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0560,Medium,Education,Negombo,61959262,100,Manager,No,97.44,81.6,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0561,Small,Healthcare,Anuradhapura,24209814,72,Employee,Yes,100.0,73.29,Medium,Converted,Follow up within 3-5 business days
+LEAD_0562,Small,Retail,Colombo,23647686,28,C-Level,No,13.54,24.12,Low,Prospect,Nurture campaign - email sequence
+LEAD_0563,Small,Healthcare,Galle,16129482,57,Employee,No,48.24,43.68,Low,Qualified,Nurture campaign - email sequence
+LEAD_0564,Medium,Tourism,Anuradhapura,77909487,92,Manager,No,100.0,80.84,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0565,Medium,Finance,Kurunegala,87051998,62,C-Level,No,52.27,52.03,Medium,Converted,Follow up within 3-5 business days
+LEAD_0566,Large,Finance,Negombo,791688964,71,Employee,No,100.0,73.13,Medium,Converted,Follow up within 3-5 business days
+LEAD_0567,Medium,Retail,Anuradhapura,77424672,100,Manager,Yes,83.67,74.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0568,Large,Finance,Galle,816158814,92,C-Level,No,13.54,40.41,Low,Converted,Nurture campaign - email sequence
+LEAD_0569,Large,Retail,Negombo,878741833,54,Manager,No,48.24,45.98,Low,Converted,Nurture campaign - email sequence
+LEAD_0570,Large,Agriculture,Colombo,658068983,100,C-Level,Yes,100.0,86.09,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0571,Medium,Retail,Anuradhapura,51661989,39,C-Level,No,13.54,26.94,Low,Prospect,Nurture campaign - email sequence
+LEAD_0572,Small,Finance,Negombo,19510131,40,C-Level,No,52.27,46.32,Low,Converted,Nurture campaign - email sequence
+LEAD_0573,Large,Finance,Jaffna,360431296,53,Employee,No,100.0,69.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0574,Small,Education,Jaffna,4278518,93,C-Level,No,52.27,59.81,Medium,Converted,Follow up within 3-5 business days
+LEAD_0575,Medium,Education,Kandy,86262456,87,Employee,Yes,75.0,64.5,Medium,Converted,Follow up within 3-5 business days
+LEAD_0576,Medium,Retail,Galle,49629467,100,Manager,Yes,83.67,74.84,Medium,Converted,Follow up within 3-5 business days
+LEAD_0577,Small,Tourism,Kandy,13891440,42,Employee,No,52.27,42.05,Low,Qualified,Nurture campaign - email sequence
+LEAD_0578,Small,IT/Software,Colombo,9521557,100,C-Level,No,52.27,61.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0579,Medium,Tourism,Galle,50678425,100,C-Level,Yes,100.0,85.44,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0580,Medium,Education,Jaffna,84695016,99,Manager,No,75.61,70.7,Medium,Converted,Follow up within 3-5 business days
+LEAD_0581,Small,Retail,Jaffna,5668750,81,C-Level,No,73.91,67.36,Medium,Converted,Follow up within 3-5 business days
+LEAD_0582,Small,Retail,Jaffna,13553133,87,Employee,No,52.27,53.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0583,Large,Finance,Kandy,943766561,93,C-Level,No,52.27,60.27,Medium,Converted,Follow up within 3-5 business days
+LEAD_0584,Medium,Manufacturing,Kandy,95313586,63,Employee,No,97.44,70.01,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0585,Small,Education,Jaffna,2111308,96,Manager,No,52.27,57.8,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0586,Medium,Healthcare,Galle,81091512,98,Manager,Yes,95.12,80.23,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0587,Medium,Healthcare,Kandy,117033255,94,C-Level,No,97.44,82.63,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0588,Small,Tourism,Kandy,17868846,69,Manager,No,13.54,31.8,Low,Qualified,Nurture campaign - email sequence
+LEAD_0589,Large,Manufacturing,Anuradhapura,815940370,94,Manager,No,13.54,38.29,Low,Converted,Nurture campaign - email sequence
+LEAD_0590,Small,Healthcare,Jaffna,3233322,35,Employee,No,48.24,38.3,Low,Converted,Nurture campaign - email sequence
+LEAD_0591,Large,Retail,Galle,672988987,40,Employee,No,52.27,41.94,Low,Converted,Nurture campaign - email sequence
+LEAD_0592,Medium,Retail,Anuradhapura,27295043,100,Employee,Yes,83.67,72.28,Medium,Converted,Follow up within 3-5 business days
+LEAD_0593,Small,Retail,Galle,21261711,100,C-Level,No,75.61,73.22,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0594,Medium,Education,Jaffna,56933481,12,Employee,No,48.24,32.46,Low,Converted,Nurture campaign - email sequence
+LEAD_0595,Large,Tourism,Colombo,501525759,57,C-Level,No,48.24,48.81,Low,Converted,Nurture campaign - email sequence
+LEAD_0596,Small,Manufacturing,Negombo,16286248,100,C-Level,No,95.24,82.9,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0597,Large,Retail,Colombo,456853516,100,Manager,No,13.54,39.99,Low,Converted,Nurture campaign - email sequence
+LEAD_0598,Large,IT/Software,Negombo,713415404,67,C-Level,No,100.0,77.27,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0599,Medium,Tourism,Jaffna,40115727,66,Manager,No,52.27,50.41,Medium,Converted,Follow up within 3-5 business days
+LEAD_0600,Medium,Healthcare,Anuradhapura,45051768,100,Employee,Yes,83.67,72.14,Medium,Converted,Follow up within 3-5 business days
+LEAD_0601,Large,Manufacturing,Jaffna,673265687,100,Manager,No,52.27,59.61,Medium,Converted,Follow up within 3-5 business days
+LEAD_0602,Small,IT/Software,Kandy,22119068,96,C-Level,Yes,100.0,84.22,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0603,Large,IT/Software,Anuradhapura,490401836,40,Employee,Yes,89.66,60.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0604,Small,Healthcare,Negombo,2963436,67,C-Level,Yes,46.15,50.22,Medium,Converted,Follow up within 3-5 business days
+LEAD_0605,Large,Finance,Galle,981286710,100,Employee,No,100.0,80.4,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0606,Medium,Finance,Matara,146539932,75,C-Level,Yes,100.0,79.18,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0607,Medium,Agriculture,Anuradhapura,84613012,71,Employee,No,48.24,47.42,Low,Qualified,Nurture campaign - email sequence
+LEAD_0608,Large,Tourism,Kurunegala,388739211,100,Employee,No,13.54,37.74,Low,Qualified,Nurture campaign - email sequence
+LEAD_0609,Small,Manufacturing,Anuradhapura,14170283,74,C-Level,No,48.24,52.86,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0610,Medium,Agriculture,Galle,98898151,79,Employee,Yes,100.0,75.2,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0611,Small,Agriculture,Anuradhapura,15964651,100,Manager,Yes,100.0,82.76,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0612,Small,Manufacturing,Galle,15343440,74,Employee,No,73.91,60.75,Medium,Converted,Follow up within 3-5 business days
+LEAD_0613,Small,Healthcare,Galle,7396328,98,Employee,Yes,100.0,79.75,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0614,Medium,Tourism,Colombo,86288442,56,Manager,No,48.24,45.98,Low,Qualified,Nurture campaign - email sequence
+LEAD_0615,Small,Retail,Negombo,24534658,38,Employee,Yes,8.33,18.88,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0616,Small,Manufacturing,Anuradhapura,5796797,82,Employee,Yes,100.0,75.77,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0617,Small,IT/Software,Kurunegala,21957993,100,Employee,Yes,95.12,77.79,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0618,Medium,Retail,Matara,125679410,82,Employee,Yes,66.67,59.19,Medium,Converted,Follow up within 3-5 business days
+LEAD_0619,Large,IT/Software,Galle,557512344,90,C-Level,No,75.61,70.93,Medium,Converted,Follow up within 3-5 business days
+LEAD_0620,Small,Tourism,Colombo,7796112,25,Employee,No,52.27,37.77,Low,Prospect,Nurture campaign - email sequence
+LEAD_0621,Small,Education,Kandy,10949587,100,C-Level,No,73.91,72.31,Medium,Converted,Follow up within 3-5 business days
+LEAD_0622,Small,Manufacturing,Kandy,12592632,100,Manager,Yes,100.0,82.8,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0623,Small,Tourism,Anuradhapura,4345627,31,Employee,No,18.75,22.54,Low,Converted,Nurture campaign - email sequence
+LEAD_0624,Large,Finance,Kandy,875958033,100,Employee,Yes,100.0,80.73,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0625,Small,Finance,Jaffna,20413472,100,C-Level,Yes,83.67,77.05,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0626,Small,Manufacturing,Kurunegala,14188749,75,C-Level,No,63.16,60.59,Medium,Converted,Follow up within 3-5 business days
+LEAD_0627,Medium,IT/Software,Kandy,124830236,84,Manager,No,52.27,55.16,Medium,Converted,Follow up within 3-5 business days
+LEAD_0628,Large,Healthcare,Matara,192571387,100,C-Level,Yes,83.67,77.94,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0629,Small,Manufacturing,Colombo,8818008,54,Manager,No,48.24,45.55,Low,Converted,Nurture campaign - email sequence
+LEAD_0630,Small,Manufacturing,Galle,16906109,100,C-Level,Yes,83.67,77.26,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0631,Medium,Finance,Kandy,73599350,67,Manager,No,52.27,50.69,Medium,Converted,Follow up within 3-5 business days
+LEAD_0632,Medium,Healthcare,Negombo,26455701,100,Employee,Yes,83.67,72.08,Medium,Converted,Follow up within 3-5 business days
+LEAD_0633,Small,Retail,Colombo,1379422,100,C-Level,Yes,100.0,85.21,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0634,Small,IT/Software,Anuradhapura,20601146,100,C-Level,No,73.91,72.11,Medium,Converted,Follow up within 3-5 business days
+LEAD_0635,Medium,Tourism,Anuradhapura,38772138,95,Employee,No,75.61,66.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0636,Small,Tourism,Anuradhapura,14539511,100,Manager,No,95.24,80.29,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0637,Small,Agriculture,Colombo,17411171,24,C-Level,No,13.54,23.06,Low,Prospect,Nurture campaign - email sequence
+LEAD_0638,Small,Retail,Galle,14220582,99,Employee,No,13.54,36.8,Low,Qualified,Nurture campaign - email sequence
+LEAD_0639,Medium,Retail,Anuradhapura,104340664,72,Manager,No,52.27,52.31,Medium,Converted,Follow up within 3-5 business days
+LEAD_0640,Large,Finance,Kurunegala,901661213,100,C-Level,Yes,100.0,85.81,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0641,Medium,Education,Jaffna,56801599,87,Manager,No,13.54,36.58,Low,Qualified,Nurture campaign - email sequence
+LEAD_0642,Small,Healthcare,Kandy,1897284,85,Manager,No,73.91,65.94,Medium,Converted,Follow up within 3-5 business days
+LEAD_0643,Large,Agriculture,Negombo,511807350,100,C-Level,Yes,100.0,85.65,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0644,Small,Tourism,Galle,15416563,30,C-Level,No,13.54,24.5,Low,Prospect,Nurture campaign - email sequence
+LEAD_0645,Medium,Agriculture,Matara,114254851,100,C-Level,Yes,83.67,77.43,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0646,Small,Manufacturing,Galle,3461564,86,Employee,No,73.91,63.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0647,Small,Manufacturing,Kandy,1454654,100,Manager,Yes,83.67,74.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0648,Large,Manufacturing,Colombo,757183610,49,Manager,No,13.54,27.32,Low,Converted,Nurture campaign - email sequence
+LEAD_0649,Small,Agriculture,Negombo,12771298,47,Manager,No,52.27,45.78,Low,Prospect,Nurture campaign - email sequence
+LEAD_0650,Small,Finance,Negombo,22793614,57,C-Level,No,63.16,56.19,Medium,Converted,Follow up within 3-5 business days
+LEAD_0651,Large,IT/Software,Kurunegala,658034702,47,Manager,No,48.24,44.02,Low,Prospect,Nurture campaign - email sequence
+LEAD_0652,Medium,Finance,Galle,84490669,78,Employee,No,97.44,73.85,Medium,Converted,Follow up within 3-5 business days
+LEAD_0653,Small,Retail,Jaffna,16606263,74,Manager,Yes,100.0,76.44,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0654,Medium,Retail,Colombo,28229518,93,C-Level,No,75.61,71.52,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0655,Medium,Manufacturing,Negombo,52259001,59,Employee,No,48.24,44.53,Low,Converted,Nurture campaign - email sequence
+LEAD_0656,Medium,Healthcare,Matara,133181559,29,Employee,No,0.0,12.85,Low,Converted,Nurture campaign - email sequence
+LEAD_0657,Medium,Tourism,Colombo,97705746,100,C-Level,No,97.44,84.18,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0658,Large,Agriculture,Jaffna,540473207,90,Employee,No,75.61,66.35,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0659,Small,Agriculture,Jaffna,5046580,100,C-Level,No,13.54,42.02,Low,Converted,Nurture campaign - email sequence
+LEAD_0660,Small,Tourism,Anuradhapura,16720299,57,Manager,Yes,8.33,26.19,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0661,Large,Finance,Colombo,432565713,100,C-Level,No,75.61,73.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0662,Medium,Manufacturing,Colombo,129171960,100,C-Level,Yes,95.12,83.11,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0663,Small,Finance,Kandy,7418370,81,C-Level,No,75.61,68.32,Medium,Converted,Follow up within 3-5 business days
+LEAD_0664,Large,IT/Software,Kurunegala,955216561,71,Employee,Yes,75.0,61.07,Medium,Converted,Follow up within 3-5 business days
+LEAD_0665,Small,Agriculture,Galle,9595346,52,Employee,No,13.54,24.93,Low,Qualified,Nurture campaign - email sequence
+LEAD_0666,Medium,IT/Software,Matara,80093797,87,Manager,Yes,95.12,77.39,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0667,Medium,Education,Jaffna,30757701,100,Manager,Yes,83.67,74.57,Medium,Converted,Follow up within 3-5 business days
+LEAD_0668,Medium,Healthcare,Galle,117322411,100,Manager,No,52.27,58.92,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0669,Small,IT/Software,Jaffna,22960842,70,Manager,No,13.54,32.18,Low,Qualified,Nurture campaign - email sequence
+LEAD_0670,Large,Healthcare,Kurunegala,609539411,66,Employee,No,13.54,29.34,Low,Qualified,Nurture campaign - email sequence
+LEAD_0671,Small,Retail,Negombo,15065403,94,Employee,Yes,95.12,76.35,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0672,Small,IT/Software,Negombo,3051009,88,C-Level,Yes,95.12,79.86,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0673,Medium,Retail,Galle,57129443,100,Manager,No,75.61,70.62,Medium,Converted,Follow up within 3-5 business days
+LEAD_0674,Medium,Finance,Colombo,37190630,100,Employee,No,97.44,79.24,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0675,Medium,Finance,Kurunegala,149792873,100,Manager,No,100.0,82.78,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0676,Small,Healthcare,Colombo,23617499,57,Manager,Yes,46.15,45.13,Low,Converted,Nurture campaign - email sequence
+LEAD_0677,Medium,Education,Galle,82308579,98,Employee,Yes,83.67,71.77,Medium,Converted,Follow up within 3-5 business days
+LEAD_0678,Medium,Finance,Matara,32531591,37,Employee,No,48.24,38.96,Low,Qualified,Nurture campaign - email sequence
+LEAD_0679,Medium,Manufacturing,Galle,106687079,80,C-Level,No,97.44,79.27,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0680,Medium,Agriculture,Jaffna,77381308,85,Manager,No,52.27,55.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0681,Medium,Retail,Colombo,54475776,100,Manager,No,95.24,80.71,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0682,Small,Finance,Matara,23892098,58,C-Level,No,48.24,48.83,Low,Converted,Nurture campaign - email sequence
+LEAD_0683,Small,Retail,Jaffna,4015094,89,C-Level,No,13.54,39.33,Low,Converted,Nurture campaign - email sequence
+LEAD_0684,Large,Manufacturing,Jaffna,837775638,100,Manager,No,100.0,83.2,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0685,Medium,IT/Software,Matara,144565705,100,C-Level,Yes,83.67,77.5,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0686,Large,Tourism,Colombo,434686872,100,Employee,No,75.61,68.54,Medium,Converted,Follow up within 3-5 business days
+LEAD_0687,Medium,Healthcare,Anuradhapura,57417172,39,Manager,No,0.0,17.58,Low,Prospect,Nurture campaign - email sequence
+LEAD_0688,Large,Tourism,Matara,309318124,81,C-Level,No,13.54,38.02,Low,Converted,Nurture campaign - email sequence
+LEAD_0689,Large,Manufacturing,Anuradhapura,711846998,63,C-Level,Yes,89.66,71.03,Medium,Converted,Follow up within 3-5 business days
+LEAD_0690,Medium,Agriculture,Colombo,124008242,82,C-Level,No,100.0,81.03,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0691,Small,Healthcare,Negombo,10629424,57,C-Level,No,73.91,61.42,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0692,Small,Tourism,Jaffna,19606662,100,Employee,No,95.24,77.93,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0693,Large,Education,Jaffna,558706049,86,Manager,No,97.44,78.49,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0694,Small,Education,Galle,21240982,100,C-Level,Yes,100.0,85.31,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0695,Large,IT/Software,Kurunegala,685621977,38,Employee,No,100.0,65.08,Medium,Converted,Follow up within 3-5 business days
+LEAD_0696,Medium,Finance,Negombo,149713204,83,Employee,Yes,100.0,76.14,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0697,Medium,Healthcare,Colombo,48605064,100,C-Level,Yes,95.12,83.16,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0698,Medium,Agriculture,Anuradhapura,31928335,85,Manager,No,73.91,65.93,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0699,Small,Education,Anuradhapura,22889697,100,Manager,No,95.24,80.44,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0700,Small,Education,Jaffna,2905258,100,C-Level,No,13.54,42.07,Low,Converted,Nurture campaign - email sequence
+LEAD_0701,Small,Finance,Colombo,17601974,66,Manager,No,73.91,61.21,Medium,Converted,Follow up within 3-5 business days
+LEAD_0702,Small,Retail,Kurunegala,11609167,100,C-Level,Yes,83.67,76.99,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0703,Small,IT/Software,Jaffna,10539669,36,C-Level,No,52.27,45.51,Low,Prospect,Nurture campaign - email sequence
+LEAD_0704,Medium,Agriculture,Anuradhapura,147479800,36,C-Level,No,18.75,28.73,Low,Prospect,Nurture campaign - email sequence
+LEAD_0705,Small,Retail,Kurunegala,21932296,57,Manager,No,63.16,53.52,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0706,Medium,Agriculture,Anuradhapura,80515466,67,Employee,No,48.24,46.36,Low,Converted,Nurture campaign - email sequence
+LEAD_0707,Medium,Education,Anuradhapura,86197368,100,C-Level,No,100.0,85.33,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0708,Medium,Education,Colombo,96573090,60,C-Level,No,48.24,49.73,Low,Converted,Nurture campaign - email sequence
+LEAD_0709,Small,Agriculture,Matara,3912086,100,Manager,No,73.91,69.76,Medium,Converted,Follow up within 3-5 business days
+LEAD_0710,Medium,Tourism,Kandy,119030513,100,C-Level,Yes,83.67,77.49,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0711,Medium,Tourism,Kurunegala,61915407,74,C-Level,Yes,95.12,76.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0712,Medium,Agriculture,Jaffna,52026467,70,Manager,No,13.54,32.33,Low,Converted,Nurture campaign - email sequence
+LEAD_0713,Medium,IT/Software,Galle,90098633,100,Manager,Yes,83.67,74.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0714,Medium,Retail,Colombo,92628832,89,Employee,No,75.61,65.38,Medium,Converted,Follow up within 3-5 business days
+LEAD_0715,Large,IT/Software,Kandy,642153921,78,Employee,No,97.44,74.16,Medium,Converted,Follow up within 3-5 business days
+LEAD_0716,Medium,Education,Negombo,82987671,15,Manager,No,52.27,37.99,Low,Prospect,Nurture campaign - email sequence
+LEAD_0717,Large,IT/Software,Anuradhapura,198945379,39,Employee,No,48.24,39.69,Low,Converted,Nurture campaign - email sequence
+LEAD_0718,Small,Manufacturing,Galle,24895998,100,Manager,Yes,83.67,74.71,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0719,Medium,Finance,Colombo,71860205,100,Employee,No,97.44,79.17,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0720,Medium,Agriculture,Kurunegala,147310998,100,C-Level,No,13.54,42.35,Low,Converted,Nurture campaign - email sequence
+LEAD_0721,Small,Finance,Kandy,4320344,54,Employee,No,63.16,50.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0722,Small,Finance,Matara,11065076,44,Employee,No,63.16,47.78,Low,Prospect,Nurture campaign - email sequence
+LEAD_0723,Medium,Tourism,Colombo,135124813,92,Employee,No,100.0,78.3,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0724,Large,Tourism,Kandy,194437147,30,Employee,No,18.75,22.99,Low,Prospect,Nurture campaign - email sequence
+LEAD_0725,Large,Tourism,Jaffna,235497285,100,Employee,No,97.44,79.5,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0726,Small,Tourism,Anuradhapura,2082007,59,Employee,Yes,100.0,69.94,Medium,Converted,Follow up within 3-5 business days
+LEAD_0727,Medium,Healthcare,Anuradhapura,147547732,44,C-Level,No,13.54,28.02,Low,Converted,Nurture campaign - email sequence
+LEAD_0728,Medium,IT/Software,Colombo,30972513,64,Manager,No,73.91,60.68,Medium,Converted,Follow up within 3-5 business days
+LEAD_0729,Large,Education,Kurunegala,655503463,100,Manager,Yes,100.0,83.48,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0730,Small,Tourism,Kandy,22133847,100,Employee,Yes,83.67,72.27,Medium,Converted,Follow up within 3-5 business days
+LEAD_0731,Medium,Education,Jaffna,96094217,65,Employee,No,48.24,45.64,Low,Qualified,Nurture campaign - email sequence
+LEAD_0732,Large,Agriculture,Negombo,597685542,76,Manager,Yes,95.12,74.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0733,Small,Healthcare,Jaffna,13242280,91,Manager,No,13.54,37.27,Low,Converted,Nurture campaign - email sequence
+LEAD_0734,Medium,Education,Colombo,97590031,81,C-Level,No,52.27,57.0,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0735,Medium,Finance,Galle,82614289,74,C-Level,Yes,50.0,53.96,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0736,Medium,Tourism,Kurunegala,111303568,100,C-Level,No,13.54,42.08,Low,Converted,Nurture campaign - email sequence
+LEAD_0737,Small,Finance,Galle,2589865,82,C-Level,No,75.61,68.7,Medium,Converted,Follow up within 3-5 business days
+LEAD_0738,Small,Manufacturing,Galle,23595118,93,Employee,No,52.27,54.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0739,Small,Manufacturing,Matara,4101028,95,Manager,No,73.91,68.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0740,Medium,Agriculture,Galle,120894970,100,Manager,Yes,83.67,74.58,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0741,Large,Education,Galle,822581987,100,C-Level,Yes,100.0,85.71,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0742,Small,Agriculture,Negombo,19686870,100,C-Level,No,75.61,73.05,Medium,Converted,Follow up within 3-5 business days
+LEAD_0743,Large,IT/Software,Matara,713649448,100,Employee,Yes,100.0,80.46,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0744,Medium,Education,Kurunegala,81218661,100,Employee,Yes,83.67,72.17,Medium,Converted,Follow up within 3-5 business days
+LEAD_0745,Medium,IT/Software,Kurunegala,121081190,45,C-Level,Yes,89.66,66.74,Medium,Converted,Follow up within 3-5 business days
+LEAD_0746,Large,Tourism,Anuradhapura,931906405,100,Manager,Yes,100.0,83.44,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0747,Large,Healthcare,Kurunegala,231539097,43,Manager,Yes,89.66,63.86,Medium,Converted,Follow up within 3-5 business days
+LEAD_0748,Medium,Retail,Galle,75494830,60,Manager,No,48.24,47.19,Low,Converted,Nurture campaign - email sequence
+LEAD_0749,Small,Tourism,Colombo,2189677,30,Manager,No,13.54,22.01,Low,Converted,Nurture campaign - email sequence
+LEAD_0750,Small,IT/Software,Anuradhapura,5423699,80,C-Level,No,48.24,54.33,Medium,Converted,Follow up within 3-5 business days
+LEAD_0751,Medium,Agriculture,Negombo,118191223,100,C-Level,Yes,83.67,77.4,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0752,Large,Tourism,Kurunegala,417479904,90,Employee,No,52.27,54.15,Medium,Converted,Follow up within 3-5 business days
+LEAD_0753,Medium,Tourism,Kandy,77841552,72,Manager,No,100.0,75.81,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0754,Large,Agriculture,Negombo,894030757,87,Employee,Yes,100.0,77.21,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0755,Medium,Finance,Jaffna,86275144,87,Manager,Yes,100.0,79.72,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0756,Large,IT/Software,Kurunegala,880014857,78,Employee,No,97.44,73.62,Medium,Converted,Follow up within 3-5 business days
+LEAD_0757,Small,Healthcare,Jaffna,17233868,72,Manager,No,63.16,57.39,Medium,Converted,Follow up within 3-5 business days
+LEAD_0758,Medium,Manufacturing,Anuradhapura,124949741,100,Employee,No,97.44,78.95,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0759,Medium,Education,Negombo,111331292,100,C-Level,Yes,83.67,77.47,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0760,Small,Manufacturing,Negombo,7818864,100,Employee,Yes,83.67,72.24,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0761,Small,Retail,Negombo,19306333,66,Employee,No,63.16,53.45,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0762,Medium,Healthcare,Kurunegala,71792985,88,C-Level,No,100.0,82.67,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0763,Small,Retail,Jaffna,11512698,99,C-Level,Yes,100.0,85.06,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0764,Large,Agriculture,Kurunegala,899585248,100,Employee,Yes,100.0,81.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0765,Large,Healthcare,Kurunegala,996461505,100,Manager,Yes,100.0,83.25,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0766,Medium,Finance,Negombo,53723872,100,Employee,No,97.44,79.38,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0767,Small,Education,Galle,2632978,79,C-Level,No,52.27,56.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0768,Small,Education,Anuradhapura,6801466,51,C-Level,No,18.75,32.42,Low,Engaged,Nurture campaign - email sequence
+LEAD_0769,Large,Education,Colombo,423718851,100,C-Level,No,97.44,84.66,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0770,Large,Healthcare,Negombo,389288945,43,Employee,No,100.0,66.8,Medium,Converted,Follow up within 3-5 business days
+LEAD_0771,Medium,Manufacturing,Galle,78395898,26,Employee,No,13.54,18.8,Low,Prospect,Nurture campaign - email sequence
+LEAD_0772,Medium,Tourism,Jaffna,75211072,100,C-Level,Yes,83.67,77.17,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0773,Large,Tourism,Jaffna,748667654,100,Employee,Yes,100.0,80.61,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0774,Small,Finance,Colombo,21147739,100,Manager,No,13.54,39.56,Low,Qualified,Nurture campaign - email sequence
+LEAD_0775,Medium,Education,Kurunegala,47289982,92,Employee,Yes,100.0,78.47,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0776,Medium,Tourism,Kandy,127144861,100,Manager,Yes,83.67,74.8,Medium,Converted,Follow up within 3-5 business days
+LEAD_0777,Large,Finance,Negombo,733922650,62,C-Level,No,48.24,50.57,Medium,Converted,Follow up within 3-5 business days
+LEAD_0778,Large,Healthcare,Anuradhapura,460593463,91,C-Level,Yes,95.12,81.07,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0779,Medium,Retail,Matara,51773187,43,Manager,Yes,0.0,18.71,Low,Converted,Nurture campaign - email sequence
+LEAD_0780,Large,Education,Kandy,606340865,63,Manager,No,100.0,74.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0781,Small,Manufacturing,Galle,24687620,100,Manager,Yes,83.67,74.56,Medium,Converted,Follow up within 3-5 business days
+LEAD_0782,Small,Retail,Kandy,7034213,97,C-Level,No,95.24,82.11,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0783,Large,Finance,Kandy,200356878,100,C-Level,Yes,83.67,77.22,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0784,Large,IT/Software,Negombo,257483470,92,Manager,No,100.0,81.11,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0785,Large,IT/Software,Kurunegala,328534705,45,Employee,No,13.54,23.62,Low,Converted,Nurture campaign - email sequence
+LEAD_0786,Medium,Manufacturing,Galle,43497992,54,Employee,No,13.54,25.83,Low,Converted,Nurture campaign - email sequence
+LEAD_0787,Medium,Tourism,Negombo,74271549,92,Employee,Yes,75.0,65.98,Medium,Converted,Follow up within 3-5 business days
+LEAD_0788,Small,Retail,Matara,10812395,62,Manager,No,73.91,60.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0789,Large,IT/Software,Galle,757791000,76,Employee,Yes,100.0,74.63,Medium,Converted,Follow up within 3-5 business days
+LEAD_0790,Large,Agriculture,Galle,350059607,100,Manager,Yes,83.67,75.07,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0791,Small,Tourism,Kurunegala,4466431,95,C-Level,No,13.54,40.96,Low,Converted,Nurture campaign - email sequence
+LEAD_0792,Medium,Finance,Kandy,25432179,100,C-Level,No,13.54,42.16,Low,Converted,Nurture campaign - email sequence
+LEAD_0793,Medium,Tourism,Matara,100212084,84,C-Level,No,52.27,57.67,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0794,Large,Retail,Negombo,263489805,62,Employee,Yes,89.66,65.71,Medium,Converted,Follow up within 3-5 business days
+LEAD_0795,Small,Agriculture,Matara,19739398,37,Manager,No,48.24,41.21,Low,Prospect,Nurture campaign - email sequence
+LEAD_0796,Small,Education,Colombo,6597454,100,C-Level,Yes,83.67,77.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0797,Small,Healthcare,Galle,4782682,100,Employee,No,95.24,77.88,High,Qualified,PRIORITY: Initiate contact within 24 hours
+LEAD_0798,Medium,IT/Software,Jaffna,53369762,65,Employee,Yes,89.66,66.47,Medium,Converted,Follow up within 3-5 business days
+LEAD_0799,Medium,Healthcare,Colombo,135162736,100,C-Level,Yes,100.0,85.53,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0800,Large,Manufacturing,Jaffna,987298467,61,Manager,No,48.24,47.35,Low,Converted,Nurture campaign - email sequence
+LEAD_0801,Small,Healthcare,Kurunegala,5270933,92,Manager,Yes,100.0,80.93,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0802,Small,Agriculture,Anuradhapura,6512381,100,Manager,Yes,100.0,82.75,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0803,Medium,Agriculture,Galle,54557562,77,Manager,No,13.54,34.14,Low,Converted,Nurture campaign - email sequence
+LEAD_0804,Large,Agriculture,Galle,247442556,54,C-Level,No,13.54,31.16,Low,Qualified,Nurture campaign - email sequence
+LEAD_0805,Large,Tourism,Negombo,559745316,100,Employee,Yes,100.0,81.1,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0806,Medium,IT/Software,Kurunegala,65990754,100,C-Level,Yes,95.12,83.17,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0807,Medium,Education,Colombo,44538324,88,Employee,No,52.27,53.49,Medium,Converted,Follow up within 3-5 business days
+LEAD_0808,Large,Tourism,Colombo,798315663,52,C-Level,No,97.44,72.24,Medium,Converted,Follow up within 3-5 business days
+LEAD_0809,Medium,Education,Jaffna,95306693,100,Manager,Yes,83.67,74.79,Medium,Converted,Follow up within 3-5 business days
+LEAD_0810,Medium,Manufacturing,Matara,50595112,27,Employee,Yes,0.0,12.42,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0811,Small,IT/Software,Kandy,17189692,100,C-Level,No,95.24,82.78,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0812,Large,Tourism,Colombo,303513651,100,Manager,Yes,83.67,74.92,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0813,Large,Manufacturing,Matara,711174495,74,Employee,No,48.24,48.73,Low,Converted,Nurture campaign - email sequence
+LEAD_0814,Large,Tourism,Jaffna,308034545,100,Manager,Yes,100.0,83.52,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0815,Large,Tourism,Kandy,783761705,83,C-Level,Yes,95.12,78.78,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0816,Large,Healthcare,Matara,780214147,55,Employee,No,52.27,45.29,Low,Converted,Nurture campaign - email sequence
+LEAD_0817,Small,Education,Anuradhapura,20665607,83,Manager,No,95.24,76.1,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0818,Large,Healthcare,Negombo,334707176,100,Manager,No,97.44,82.22,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0819,Large,Tourism,Negombo,625356171,89,Manager,No,100.0,80.83,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0820,Large,IT/Software,Colombo,376143423,86,Employee,No,13.54,34.22,Low,Converted,Nurture campaign - email sequence
+LEAD_0821,Small,Manufacturing,Negombo,10667635,100,C-Level,No,52.27,61.3,Medium,Converted,Follow up within 3-5 business days
+LEAD_0822,Medium,Finance,Negombo,88883074,58,Manager,Yes,89.66,67.38,Medium,Converted,Follow up within 3-5 business days
+LEAD_0823,Medium,Retail,Galle,119480336,89,C-Level,No,100.0,82.56,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0824,Large,Agriculture,Kandy,572219833,80,Manager,Yes,95.12,75.85,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0825,Medium,Tourism,Anuradhapura,130691487,53,Manager,No,52.27,47.12,Low,Engaged,Nurture campaign - email sequence
+LEAD_0826,Small,Finance,Negombo,24129747,100,Manager,No,75.61,70.65,Medium,Converted,Follow up within 3-5 business days
+LEAD_0827,Large,Manufacturing,Kurunegala,641762521,80,Employee,No,52.27,51.53,Medium,Converted,Follow up within 3-5 business days
+LEAD_0828,Medium,Agriculture,Kandy,64517839,100,Employee,Yes,83.67,72.49,Medium,Converted,Follow up within 3-5 business days
+LEAD_0829,Large,Healthcare,Galle,316298542,100,Employee,Yes,100.0,80.88,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0830,Medium,Education,Kandy,98311854,79,Manager,Yes,100.0,77.82,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0831,Medium,Tourism,Galle,37213489,100,C-Level,Yes,83.67,77.5,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0832,Small,Finance,Kandy,20485918,100,C-Level,No,13.54,42.08,Low,Converted,Nurture campaign - email sequence
+LEAD_0833,Large,Education,Negombo,809652522,100,Manager,Yes,100.0,83.56,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0834,Medium,Agriculture,Matara,46160701,58,Manager,No,52.27,48.55,Low,Converted,Nurture campaign - email sequence
+LEAD_0835,Small,Retail,Negombo,5327404,100,Manager,Yes,95.12,80.43,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0836,Medium,Manufacturing,Negombo,146751683,67,C-Level,No,13.54,34.13,Low,Converted,Nurture campaign - email sequence
+LEAD_0837,Medium,Manufacturing,Negombo,44042475,79,Employee,No,48.24,49.13,Low,Qualified,Nurture campaign - email sequence
+LEAD_0838,Large,Tourism,Kurunegala,245978117,40,Employee,No,100.0,65.7,Medium,Converted,Follow up within 3-5 business days
+LEAD_0839,Large,Tourism,Kurunegala,298706041,82,Manager,No,97.44,77.61,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0840,Large,Healthcare,Matara,948139459,86,Employee,No,13.54,34.29,Low,Converted,Nurture campaign - email sequence
+LEAD_0841,Large,Retail,Anuradhapura,845266507,65,Employee,No,13.54,29.01,Low,Qualified,Nurture campaign - email sequence
+LEAD_0842,Medium,IT/Software,Colombo,119649393,84,Manager,No,52.27,55.22,Medium,Converted,Follow up within 3-5 business days
+LEAD_0843,Large,Healthcare,Colombo,237417813,55,Manager,No,100.0,72.05,Medium,Converted,Follow up within 3-5 business days
+LEAD_0844,Small,Tourism,Matara,12026731,37,Manager,No,52.27,43.27,Low,Prospect,Nurture campaign - email sequence
+LEAD_0845,Medium,IT/Software,Jaffna,133285025,92,Manager,Yes,100.0,80.81,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0846,Medium,IT/Software,Anuradhapura,99112765,89,C-Level,No,13.54,39.68,Low,Qualified,Nurture campaign - email sequence
+LEAD_0847,Small,Finance,Anuradhapura,9185365,73,Employee,No,52.27,49.79,Low,Qualified,Nurture campaign - email sequence
+LEAD_0848,Large,Retail,Galle,972714565,87,C-Level,No,100.0,82.16,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0849,Small,Tourism,Galle,17758798,79,Employee,No,63.16,56.69,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0850,Large,Finance,Kandy,346996125,80,C-Level,Yes,95.12,78.2,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0851,Medium,Manufacturing,Kurunegala,42036523,79,Employee,No,52.27,51.39,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0852,Small,Education,Negombo,18757828,100,Employee,Yes,83.67,72.1,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0853,Small,Education,Jaffna,15984492,100,C-Level,Yes,83.67,77.27,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0854,Small,Tourism,Jaffna,7977328,71,Manager,No,52.27,51.64,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0855,Large,Education,Jaffna,950448705,99,Employee,No,13.54,37.26,Low,Converted,Nurture campaign - email sequence
+LEAD_0856,Small,Agriculture,Jaffna,17098655,73,Manager,No,13.54,32.79,Low,Converted,Nurture campaign - email sequence
+LEAD_0857,Small,Healthcare,Colombo,18426869,83,C-Level,Yes,100.0,81.01,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0858,Small,Finance,Jaffna,19620019,100,Manager,Yes,83.67,74.68,Medium,Converted,Follow up within 3-5 business days
+LEAD_0859,Large,Education,Kandy,750328520,34,Employee,No,100.0,64.31,Medium,Converted,Follow up within 3-5 business days
+LEAD_0860,Medium,Agriculture,Colombo,142519567,65,Employee,Yes,89.66,66.37,Medium,Converted,Follow up within 3-5 business days
+LEAD_0861,Large,Manufacturing,Kurunegala,338661973,62,Manager,Yes,89.66,68.93,Medium,Converted,Follow up within 3-5 business days
+LEAD_0862,Medium,Manufacturing,Kurunegala,90367048,50,Manager,No,48.24,44.72,Low,Converted,Nurture campaign - email sequence
+LEAD_0863,Large,IT/Software,Jaffna,854960903,75,Employee,Yes,75.0,61.67,Medium,Converted,Follow up within 3-5 business days
+LEAD_0864,Small,Agriculture,Colombo,8748817,70,Manager,Yes,46.15,48.41,Low,Converted,Nurture campaign - email sequence
+LEAD_0865,Medium,Agriculture,Matara,113527885,28,Manager,No,52.27,41.25,Low,Converted,Nurture campaign - email sequence
+LEAD_0866,Medium,Healthcare,Galle,49292904,66,Manager,No,63.16,55.82,Medium,Converted,Follow up within 3-5 business days
+LEAD_0867,Large,Tourism,Galle,407381161,100,C-Level,No,97.44,84.69,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0868,Small,Education,Matara,21395546,100,Employee,Yes,83.67,72.27,Medium,Converted,Follow up within 3-5 business days
+LEAD_0869,Medium,Agriculture,Anuradhapura,50531809,100,C-Level,Yes,83.67,77.27,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0870,Medium,Healthcare,Jaffna,27600710,100,Manager,Yes,83.67,74.94,Medium,Converted,Follow up within 3-5 business days
+LEAD_0871,Small,Healthcare,Kandy,22205183,47,Employee,No,18.75,26.5,Low,Prospect,Nurture campaign - email sequence
+LEAD_0872,Medium,Agriculture,Kandy,112851560,100,Manager,Yes,100.0,82.81,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0873,Large,Education,Jaffna,884436030,100,Manager,No,97.44,81.81,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0874,Small,IT/Software,Anuradhapura,14941016,84,Manager,Yes,100.0,78.87,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0875,Small,IT/Software,Negombo,15521462,100,C-Level,No,95.24,82.87,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0876,Large,Agriculture,Kandy,820494246,72,C-Level,No,100.0,78.7,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0877,Medium,Manufacturing,Kandy,117920111,45,Employee,No,48.24,41.03,Low,Converted,Nurture campaign - email sequence
+LEAD_0878,Large,Education,Colombo,438579964,67,C-Level,No,52.27,53.45,Medium,Converted,Follow up within 3-5 business days
+LEAD_0879,Small,Manufacturing,Galle,6945567,38,Employee,Yes,8.33,19.07,Low,Demo/Trial,Nurture campaign - email sequence
+LEAD_0880,Small,Agriculture,Galle,4221499,100,C-Level,No,95.24,83.0,High,Qualified,HIGH VALUE: Schedule executive meeting
+LEAD_0881,Medium,Education,Kandy,80883455,100,C-Level,No,52.27,61.79,Medium,Converted,Follow up within 3-5 business days
+LEAD_0882,Large,IT/Software,Kandy,863649502,86,Employee,No,97.44,75.79,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0883,Small,Tourism,Kandy,9103701,74,Manager,Yes,95.12,74.01,Medium,Converted,Follow up within 3-5 business days
+LEAD_0884,Medium,Retail,Negombo,111056901,31,Manager,No,13.54,22.61,Low,Converted,Nurture campaign - email sequence
+LEAD_0885,Medium,Manufacturing,Galle,136324259,96,C-Level,No,75.61,72.3,Medium,Converted,Follow up within 3-5 business days
+LEAD_0886,Large,Education,Kurunegala,974792945,60,C-Level,No,48.24,49.63,Low,Converted,Nurture campaign - email sequence
+LEAD_0887,Large,Retail,Anuradhapura,640569576,76,Employee,Yes,100.0,75.0,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0888,Large,Finance,Matara,733851044,85,Manager,No,75.61,67.55,Medium,Converted,Follow up within 3-5 business days
+LEAD_0889,Large,Education,Matara,394942241,100,C-Level,No,97.44,84.16,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0890,Large,Manufacturing,Galle,886071702,100,Manager,No,13.54,40.34,Low,Qualified,Nurture campaign - email sequence
+LEAD_0891,Small,IT/Software,Jaffna,23554745,100,Employee,Yes,83.67,72.2,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0892,Large,IT/Software,Kandy,597217604,40,Manager,No,100.0,67.9,Medium,Converted,Follow up within 3-5 business days
+LEAD_0893,Large,Healthcare,Kurunegala,687063892,100,C-Level,Yes,100.0,85.87,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0894,Large,Agriculture,Jaffna,822753080,70,Manager,No,100.0,75.78,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0895,Medium,Manufacturing,Kandy,42789475,41,Manager,No,52.27,44.29,Low,Prospect,Nurture campaign - email sequence
+LEAD_0896,Large,Healthcare,Anuradhapura,394482042,91,C-Level,Yes,100.0,83.29,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0897,Large,Retail,Matara,923786397,66,C-Level,No,100.0,77.31,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0898,Small,Education,Colombo,6781735,83,Employee,Yes,75.0,63.67,Medium,Converted,Follow up within 3-5 business days
+LEAD_0899,Medium,Healthcare,Matara,88079925,91,Employee,Yes,95.12,75.77,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0900,Medium,Finance,Matara,96202574,70,C-Level,No,48.24,51.96,Medium,Converted,Follow up within 3-5 business days
+LEAD_0901,Large,Manufacturing,Matara,515497010,75,Employee,No,48.24,48.64,Low,Converted,Nurture campaign - email sequence
+LEAD_0902,Medium,Education,Anuradhapura,68964998,78,Manager,No,52.27,53.75,Medium,Converted,Follow up within 3-5 business days
+LEAD_0903,Small,Manufacturing,Anuradhapura,12995299,54,C-Level,No,48.24,47.96,Low,Converted,Nurture campaign - email sequence
+LEAD_0904,Large,Retail,Anuradhapura,679271082,99,Employee,Yes,100.0,80.58,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0905,Medium,Education,Kurunegala,88234525,69,Employee,No,48.24,46.97,Low,Converted,Nurture campaign - email sequence
+LEAD_0906,Large,Tourism,Galle,511228376,70,C-Level,No,48.24,52.13,Medium,Converted,Follow up within 3-5 business days
+LEAD_0907,Large,IT/Software,Kandy,805265349,17,Employee,No,48.24,34.0,Low,Converted,Nurture campaign - email sequence
+LEAD_0908,Large,Retail,Kandy,586028943,93,Manager,No,13.54,37.9,Low,Converted,Nurture campaign - email sequence
+LEAD_0909,Medium,IT/Software,Kandy,109509366,95,Manager,Yes,95.12,79.28,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0910,Large,Education,Matara,480137261,56,C-Level,No,48.24,49.04,Low,Converted,Nurture campaign - email sequence
+LEAD_0911,Medium,IT/Software,Colombo,61479819,14,Employee,No,13.54,15.81,Low,Converted,Nurture campaign - email sequence
+LEAD_0912,Large,IT/Software,Anuradhapura,808577860,88,C-Level,No,13.54,39.53,Low,Converted,Nurture campaign - email sequence
+LEAD_0913,Medium,Education,Jaffna,26401235,65,Manager,No,13.54,30.85,Low,Converted,Nurture campaign - email sequence
+LEAD_0914,Small,Tourism,Matara,10288489,39,Employee,No,63.16,46.59,Low,Converted,Nurture campaign - email sequence
+LEAD_0915,Medium,Agriculture,Negombo,99728882,40,Manager,No,13.54,24.83,Low,Converted,Nurture campaign - email sequence
+LEAD_0916,Small,Manufacturing,Matara,7152542,100,C-Level,No,75.61,73.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0917,Medium,Finance,Negombo,108673803,68,Employee,No,97.44,71.1,Medium,Converted,Follow up within 3-5 business days
+LEAD_0918,Small,Agriculture,Colombo,9318090,98,C-Level,Yes,100.0,84.68,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0919,Large,Agriculture,Negombo,951642745,100,C-Level,No,100.0,85.81,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0920,Large,Tourism,Anuradhapura,788666913,100,Manager,Yes,100.0,83.04,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0921,Medium,IT/Software,Colombo,93304738,100,C-Level,Yes,100.0,85.67,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0922,Small,Manufacturing,Colombo,19652166,61,Employee,No,73.91,57.49,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0923,Large,Retail,Kandy,824796978,98,C-Level,Yes,100.0,85.06,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0924,Small,IT/Software,Kurunegala,2293526,98,Employee,Yes,83.67,71.59,Medium,Converted,Follow up within 3-5 business days
+LEAD_0925,Large,Healthcare,Jaffna,258008729,97,Manager,Yes,95.12,79.88,High,Demo/Trial,URGENT: Follow up on demo request immediately
+LEAD_0926,Medium,IT/Software,Matara,121280885,78,Employee,No,13.54,31.69,Low,Converted,Nurture campaign - email sequence
+LEAD_0927,Large,IT/Software,Matara,484014395,80,Employee,No,52.27,52.25,Medium,Converted,Follow up within 3-5 business days
+LEAD_0928,Medium,Education,Colombo,98575670,94,Employee,Yes,75.0,66.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0929,Medium,Finance,Jaffna,76500616,100,Employee,Yes,83.67,72.11,Medium,Converted,Follow up within 3-5 business days
+LEAD_0930,Large,Agriculture,Anuradhapura,956598240,100,C-Level,No,13.54,42.55,Low,Converted,Nurture campaign - email sequence
+LEAD_0931,Large,Healthcare,Galle,475623962,77,Manager,Yes,100.0,77.38,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0932,Large,Education,Kurunegala,203975985,100,Manager,Yes,83.67,75.27,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0933,Medium,Retail,Kandy,59664717,11,Employee,No,48.24,32.1,Low,Converted,Nurture campaign - email sequence
+LEAD_0934,Small,Tourism,Matara,6933742,100,C-Level,Yes,95.12,82.86,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0935,Medium,Manufacturing,Negombo,125810012,25,Employee,No,48.24,35.74,Low,Prospect,Nurture campaign - email sequence
+LEAD_0936,Medium,Education,Colombo,36096146,100,C-Level,No,95.24,82.95,High,Converted,HIGH VALUE: Schedule executive meeting
+LEAD_0937,Small,Healthcare,Galle,5757635,86,Employee,Yes,100.0,76.81,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0938,Small,Education,Jaffna,15465049,78,Manager,No,13.54,34.01,Low,Converted,Nurture campaign - email sequence
+LEAD_0939,Large,Agriculture,Negombo,318355728,100,C-Level,No,52.27,62.06,Medium,Converted,Follow up within 3-5 business days
+LEAD_0940,Small,Education,Negombo,14601508,61,C-Level,No,52.27,51.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0941,Large,Manufacturing,Matara,694581445,81,Employee,No,52.27,52.19,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0942,Medium,Agriculture,Negombo,105788135,72,Manager,No,97.44,74.58,Medium,Converted,Follow up within 3-5 business days
+LEAD_0943,Large,Retail,Kandy,198430803,68,Manager,No,48.24,49.27,Low,Converted,Nurture campaign - email sequence
+LEAD_0944,Medium,Education,Galle,109187259,62,Employee,Yes,89.66,66.0,Medium,Converted,Follow up within 3-5 business days
+LEAD_0945,Large,Retail,Kandy,242655194,100,C-Level,Yes,50.0,60.97,Medium,Converted,Follow up within 3-5 business days
+LEAD_0946,Small,Healthcare,Jaffna,15910970,61,Manager,Yes,8.33,27.2,Low,Converted,Nurture campaign - email sequence
+LEAD_0947,Small,Manufacturing,Jaffna,6008546,96,C-Level,No,13.54,41.2,Low,Converted,Nurture campaign - email sequence
+LEAD_0948,Small,Manufacturing,Galle,24047852,72,Manager,No,52.27,52.07,Medium,Converted,Follow up within 3-5 business days
+LEAD_0949,Medium,Agriculture,Negombo,133923888,82,Employee,Yes,100.0,76.0,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0950,Medium,Tourism,Anuradhapura,89597931,87,Manager,No,13.54,36.69,Low,Converted,Nurture campaign - email sequence
+LEAD_0951,Large,Finance,Negombo,383556704,73,Manager,No,97.44,75.55,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0952,Small,Manufacturing,Negombo,21397436,48,Employee,No,18.75,26.54,Low,Converted,Nurture campaign - email sequence
+LEAD_0953,Small,Agriculture,Anuradhapura,7292030,50,C-Level,No,63.16,54.51,Medium,Converted,Follow up within 3-5 business days
+LEAD_0954,Medium,Manufacturing,Matara,145021518,84,C-Level,No,52.27,57.59,Medium,Converted,Follow up within 3-5 business days
+LEAD_0955,Medium,IT/Software,Kandy,90300242,97,Manager,No,13.54,38.87,Low,Converted,Nurture campaign - email sequence
+LEAD_0956,Medium,Agriculture,Jaffna,33830941,100,Manager,Yes,83.67,74.96,Medium,Demo/Trial,Follow up within 3-5 business days
+LEAD_0957,Small,Education,Kandy,11642724,55,C-Level,No,63.16,55.52,Medium,Engaged,Follow up within 3-5 business days
+LEAD_0958,Medium,Retail,Colombo,137066230,100,C-Level,Yes,83.67,77.25,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0959,Medium,Retail,Galle,52700042,100,C-Level,Yes,83.67,77.46,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0960,Small,IT/Software,Kurunegala,11745660,52,Employee,No,48.24,42.37,Low,Qualified,Nurture campaign - email sequence
+LEAD_0961,Small,Tourism,Negombo,7099073,100,C-Level,Yes,100.0,85.29,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0962,Small,Tourism,Colombo,11457549,100,Manager,No,73.91,69.76,Medium,Qualified,Follow up within 3-5 business days
+LEAD_0963,Medium,Tourism,Kurunegala,112202909,69,Employee,No,52.27,48.83,Low,Qualified,Nurture campaign - email sequence
+LEAD_0964,Medium,Agriculture,Anuradhapura,107352227,92,C-Level,No,13.54,40.34,Low,Qualified,Nurture campaign - email sequence
+LEAD_0965,Large,Healthcare,Matara,943766807,88,Employee,No,75.61,65.44,Medium,Converted,Follow up within 3-5 business days
+LEAD_0966,Large,Finance,Kandy,177524420,58,Employee,No,13.54,27.29,Low,Converted,Nurture campaign - email sequence
+LEAD_0967,Small,IT/Software,Anuradhapura,2955501,100,Manager,Yes,83.67,74.49,Medium,Converted,Follow up within 3-5 business days
+LEAD_0968,Medium,Healthcare,Matara,112525008,100,Manager,Yes,83.67,74.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0969,Medium,Manufacturing,Jaffna,148554674,100,Manager,No,100.0,82.94,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0970,Small,Finance,Negombo,20912208,100,Employee,Yes,83.67,72.28,Medium,Converted,Follow up within 3-5 business days
+LEAD_0971,Medium,Education,Jaffna,135166515,94,C-Level,No,75.61,71.79,Medium,Converted,Follow up within 3-5 business days
+LEAD_0972,Medium,IT/Software,Negombo,98031404,63,Employee,No,97.44,69.83,Medium,Converted,Follow up within 3-5 business days
+LEAD_0973,Medium,Tourism,Anuradhapura,65069631,89,Employee,Yes,95.12,75.18,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0974,Small,Tourism,Matara,1911061,100,C-Level,Yes,100.0,85.22,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0975,Large,Finance,Colombo,761067702,100,C-Level,Yes,100.0,85.65,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0976,Small,Finance,Kurunegala,20432370,100,Manager,Yes,95.12,80.37,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0977,Large,Agriculture,Negombo,381689204,100,C-Level,No,52.27,61.78,Medium,Converted,Follow up within 3-5 business days
+LEAD_0978,Large,Retail,Matara,550474099,26,Manager,No,52.27,40.54,Low,Converted,Nurture campaign - email sequence
+LEAD_0979,Large,Tourism,Colombo,654935264,74,Manager,No,52.27,52.84,Medium,Converted,Follow up within 3-5 business days
+LEAD_0980,Small,Retail,Jaffna,6327846,57,Employee,Yes,46.15,42.64,Low,Converted,Nurture campaign - email sequence
+LEAD_0981,Small,IT/Software,Kurunegala,3090223,100,C-Level,Yes,83.67,77.26,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0982,Medium,Education,Negombo,70450999,78,C-Level,Yes,95.12,77.55,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0983,Small,IT/Software,Jaffna,24807361,45,Employee,No,13.54,23.35,Low,Converted,Nurture campaign - email sequence
+LEAD_0984,Small,Healthcare,Galle,17189834,34,C-Level,No,13.54,25.67,Low,Prospect,Nurture campaign - email sequence
+LEAD_0985,Small,Manufacturing,Matara,14814803,52,Employee,No,73.91,55.4,Medium,Converted,Follow up within 3-5 business days
+LEAD_0986,Large,Agriculture,Colombo,997045608,86,Employee,No,100.0,77.6,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0987,Large,IT/Software,Kurunegala,591673088,81,Employee,Yes,100.0,75.7,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0988,Large,Finance,Anuradhapura,430100256,100,Employee,Yes,83.67,72.47,Medium,Converted,Follow up within 3-5 business days
+LEAD_0989,Large,Manufacturing,Negombo,628873241,37,Employee,No,48.24,39.29,Low,Qualified,Nurture campaign - email sequence
+LEAD_0990,Large,Tourism,Jaffna,720105829,74,Manager,No,100.0,77.07,High,Converted,PRIORITY: Initiate contact within 24 hours
+LEAD_0991,Medium,Tourism,Anuradhapura,134210682,100,Employee,Yes,100.0,80.58,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0992,Small,Tourism,Negombo,4043745,100,Manager,Yes,83.67,74.56,Medium,Converted,Follow up within 3-5 business days
+LEAD_0993,Large,IT/Software,Kurunegala,187125339,46,Employee,No,13.54,23.94,Low,Converted,Nurture campaign - email sequence
+LEAD_0994,Large,Manufacturing,Galle,999668778,54,Employee,Yes,89.66,64.12,Medium,Converted,Follow up within 3-5 business days
+LEAD_0995,Medium,Education,Anuradhapura,119516199,70,C-Level,Yes,89.66,72.99,Medium,Converted,Follow up within 3-5 business days
+LEAD_0996,Large,IT/Software,Jaffna,276962526,83,C-Level,Yes,50.0,56.87,Medium,Converted,Follow up within 3-5 business days
+LEAD_0997,Medium,Education,Jaffna,35128715,93,Employee,Yes,100.0,78.63,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0998,Large,Education,Negombo,680531071,100,Manager,Yes,100.0,83.16,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_0999,Medium,Healthcare,Kandy,93502587,94,Employee,Yes,100.0,79.08,High,Converted,URGENT: Follow up on demo request immediately
+LEAD_1000,Large,Tourism,Anuradhapura,212163964,100,C-Level,No,52.27,61.88,Medium,Converted,Follow up within 3-5 business days
