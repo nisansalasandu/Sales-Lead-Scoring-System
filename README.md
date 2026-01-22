@@ -129,7 +129,12 @@ pip install -r requirements.txt
 
 ### 3. Run Notebooks (In Order)
 ```bash
-jupyter notebook 0r python -m notebook
+jupyter notebook
+```
+or
+
+```bash
+python -m notebook
 ```
 
 **Execution Sequence:**
@@ -140,7 +145,12 @@ jupyter notebook 0r python -m notebook
 
 ### 4. Launch Interactive Dashboard
 ```bash
-streamlit run dashboard.py or python -m streamlit run dashboard.py
+streamlit run dashboard.py 
+```
+or
+
+```bash
+python -m streamlit run dashboard.py
 ```
 
 Dashboard will open at: `http://localhost:8501`
