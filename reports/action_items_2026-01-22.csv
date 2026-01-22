@@ -1,21 +1,21 @@
 Lead ID,Company Size,Industry,Location,Lead Score,Priority,Contact Level,Urgency,Recommended Action,Assigned To,Pipeline Stage,Engagement Score
-269,Small,Healthcare,Trincomalee,81.07,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Proposal,98
-708,Medium,Manufacturing,Jaffna,80.82,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Qualified,97
-996,Small,IT/Software,Trincomalee,78.07,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,New,86
-878,Medium,Finance,Matara,77.07,HIGH,Manager,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Contacted,82
-439,Medium,Retail,Galle,76.76,HIGH,C-Level,HIGH,Executive outreach - C-Level contact identified,Sales Team,Contacted,90
-460,Small,Manufacturing,Jaffna,76.43,HIGH,Manager,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Contacted,98
-956,Small,Healthcare,Kandy,74.87,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,New,92
-527,Small,Healthcare,Kandy,74.74,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Contacted,86
-306,Large,Healthcare,Negombo,73.58,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Qualified,90
-274,Large,Manufacturing,Galle,73.44,HIGH,Employee,MEDIUM,Standard follow-up within 24-48 hours,Sales Team,New,69
-725,Small,Healthcare,Galle,72.6,HIGH,Employee,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Proposal,99
-136,Small,Healthcare,Galle,72.35,HIGH,Employee,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Qualified,98
-105,Large,Agriculture,Kurunegala,72.07,HIGH,C-Level,HIGH,Executive outreach - C-Level contact identified,Sales Team,Proposal,98
-920,Small,Education,Matara,71.82,HIGH,Manager,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Contacted,61
-601,Small,Education,Negombo,71.42,HIGH,Manager,MEDIUM,Standard follow-up within 24-48 hours,Sales Team,New,72
-327,Small,Education,Galle,71.37,HIGH,Manager,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Proposal,86
-177,Medium,Finance,Kurunegala,71.14,HIGH,Manager,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Qualified,91
-539,Small,Agriculture,Jaffna,71.08,HIGH,C-Level,HIGH,Executive outreach - C-Level contact identified,Sales Team,Contacted,100
-156,Small,Finance,Galle,70.48,HIGH,Employee,HIGH,"Hot lead - High engagement, contact within 24h",Sales Team,Contacted,84
-940,Small,Healthcare,Galle,70.48,HIGH,C-Level,HIGH,Executive outreach - C-Level contact identified,Sales Team,Qualified,58
+LEAD_0628,Large,Healthcare,Matara,94.17,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0389,Large,Education,Negombo,93.29,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0139,Large,Manufacturing,Kurunegala,93.19,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0064,Large,Agriculture,Galle,93.17,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0023,Large,Retail,Matara,92.96,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0498,Large,Finance,Colombo,92.67,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0031,Large,Education,Matara,92.56,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0893,Large,Healthcare,Kurunegala,92.56,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0640,Large,Finance,Kurunegala,92.41,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0945,Large,Retail,Kandy,92.28,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0570,Large,Agriculture,Colombo,92.0,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0371,Large,Retail,Kurunegala,91.98,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0113,Large,Education,Kandy,91.56,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,96
+LEAD_0043,Large,Finance,Colombo,91.45,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0175,Large,Tourism,Negombo,91.42,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0321,Large,Agriculture,Galle,90.97,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0182,Large,Finance,Galle,90.88,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0222,Large,Education,Negombo,90.71,HIGH,C-Level,HIGH,Executive outreach - C-Level contact identified,Sales Team,Converted,98
+LEAD_0741,Large,Education,Galle,90.66,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
+LEAD_0418,Large,Manufacturing,Matara,90.63,HIGH,C-Level,URGENT,Schedule demo ASAP - Lead requested demonstration,Senior Sales Rep,Converted,100
