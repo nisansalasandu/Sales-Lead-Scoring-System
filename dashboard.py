@@ -64,7 +64,7 @@ def load_data():
 def load_models():
     """Load trained models"""
     try:
-        model = joblib.load('models/best_lead_scoring_model.pkl')
+        model = joblib.load('models/best_lead_scoring_model 1.pkl')
         scaler = joblib.load('models/scaler.pkl')
         encoders = joblib.load('models/label_encoders.pkl')
         feature_cols = joblib.load('models/feature_columns.pkl')
@@ -889,43 +889,63 @@ if df is not None:
                 try:
                     # Prepare input data
                     new_lead = pd.DataFrame({
-                        'company_size': [new_company_size],
-                        'industry': [new_industry],
-                        'location': [new_location],
+                        'annual_revenue_lkr': [5000000],
                         'engagement_score': [new_engagement],
                         'website_visits': [new_website_visits],
                         'email_opens': [new_email_opens],
-                        'demo_requested': [1 if new_demo == 'Yes' else 0],
-                        'contact_level': [new_contact_level],
-                        'budget_indicated_lkr': [new_budget],
-                        'annual_revenue_lkr': [5000000],
                         'days_since_first_contact': [1],
-                        'competitor_using': [0],
-                        'referral_source': ['Website'],
-                        'pipeline_stage': ['New']
+                        'budget_indicated_lkr': [new_budget],
+                        'company_size': [new_company_size],
+                        'industry': [new_industry],
+                        'location': [new_location],
+                        'demo_requested': [new_demo],
+                        'contact_level': [new_contact_level],
+                        'competitor_using': ['No'],
+                        'referral_source': ['Website']
                     })
                     
-                    # Encode and engineer features
-                    for col in ['company_size', 'industry', 'location', 'contact_level', 'referral_source', 'pipeline_stage']:
-                        new_lead[col + '_encoded'] = encoders[col].transform(new_lead[col])
+                    # Create dummy variables to match the model's expected features
+                    new_lead_encoded = pd.get_dummies(new_lead, columns=[
+                        'company_size', 'industry', 'location', 'demo_requested', 
+                        'contact_level', 'competitor_using', 'referral_source'
+                    ], drop_first=True)
                     
-                    new_lead['engagement_demo'] = new_lead['engagement_score'] * new_lead['demo_requested']
-                    new_lead['budget_revenue_ratio'] = new_lead['budget_indicated_lkr'] / (new_lead['annual_revenue_lkr'] + 1)
-                    new_lead['total_engagement'] = new_lead['website_visits'] + (new_lead['email_opens'] * 2)
+                    # Ensure all expected columns are present (add missing ones with 0)
+                    expected_features = [
+                        'annual_revenue_lkr', 'engagement_score', 'website_visits', 'email_opens',
+                        'days_since_first_contact', 'budget_indicated_lkr',
+                        'company_size_Medium', 'company_size_Small',
+                        'industry_Education', 'industry_Finance', 'industry_Healthcare',
+                        'industry_IT/Software', 'industry_Manufacturing', 'industry_Retail', 'industry_Tourism',
+                        'location_Colombo', 'location_Galle', 'location_Jaffna', 'location_Kandy',
+                        'location_Kurunegala', 'location_Matara', 'location_Negombo',
+                        'demo_requested_Yes',
+                        'contact_level_Employee', 'contact_level_Manager',
+                        'competitor_using_Yes',
+                        'referral_source_Referral', 'referral_source_Social Media',
+                        'referral_source_Trade Show', 'referral_source_Website'
+                    ]
                     
+                    for col in expected_features:
+                        if col not in new_lead_encoded.columns:
+                            new_lead_encoded[col] = 0
+                    
+                    # Select only the features in the correct order
+                    features = new_lead_encoded[expected_features].values
+                    
+                    # Predict (no scaling needed for this model)
+                    prediction_proba = model.predict_proba(features)[0][1]
+                    
+                    # Calculate composite score
                     contact_scores = {'Employee': 30, 'Manager': 60, 'C-Level': 100}
-                    new_lead['contact_quality'] = new_lead['contact_level'].map(contact_scores)
+                    contact_quality = contact_scores[new_contact_level]
+                    budget_revenue_ratio = new_budget / (5000000 + 1)
                     
-                    # Predict
-                    features = new_lead[feature_cols].values
-                    features_scaled = scaler.transform(features)
-                    
-                    prediction_proba = model.predict_proba(features_scaled)[0][1]
                     composite_score = (
                         prediction_proba * 100 * 0.50 +
                         new_engagement * 0.25 +
-                        min(new_lead['budget_revenue_ratio'].values[0] * 1000, 100) * 0.15 +
-                        new_lead['contact_quality'].values[0] * 0.10
+                        min(budget_revenue_ratio * 1000, 100) * 0.15 +
+                        contact_quality * 0.10
                     )
                     
                     # Determine priority
