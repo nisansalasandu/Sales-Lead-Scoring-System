@@ -10,7 +10,6 @@ import os
 # Page configuration
 st.set_page_config(
     page_title="Sales Lead Scoring Dashboard",
-    page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -35,7 +34,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🎯 Sales Lead Scoring Dashboard")
+st.title("Sales Lead Scoring Dashboard")
 st.markdown("### AI-Powered Lead Prioritization System")
 st.markdown("---")
 
@@ -61,7 +60,7 @@ def load_data():
         
         return df
     except FileNotFoundError:
-        st.error("❌ Data file not found! Please run notebooks 01-03 first.")
+        st.error("Data file not found! Please run notebooks 01-03 first.")
         return None
 
 # Load models
@@ -76,7 +75,7 @@ def load_models():
         feature_cols = joblib.load('models/feature_columns.pkl')
         return model, scaler, encoders, feature_cols
     except FileNotFoundError as e:
-        st.warning(f"⚠️ Models not found: {e}. Some features will be limited.")
+        st.warning(f"Models not found: {e}. Some features will be limited.")
         return None, None, None, None
 
 def generate_executive_summary(df, report_date):
@@ -163,9 +162,9 @@ def generate_performance_metrics(df, report_date):
     
     for metric_name, value, target, comparison in metric_data:
         if comparison == '>=':
-            status = '✅ On Track' if value >= target else '⚠️ Below Target'
+            status = '✅ On Track' if value >= target else 'Below Target'
         else:
-            status = '✅ On Track' if value <= target else '⚠️ Above Target'
+            status = '✅ On Track' if value <= target else 'Above Target'
         
         metrics['Metric'].append(metric_name)
         metrics['Value'].append(round(value, 2))
@@ -587,7 +586,7 @@ if df is not None:
                     st.error(f"Error calculating score: {str(e)}")
                     st.exception(e)
         else:
-            st.warning("⚠️ Models not loaded. Please run notebooks 01-03 first.")
+            st.warning("Models not loaded. Please run notebooks 01-03 first.")
     
     # Footer
     st.markdown("---")
